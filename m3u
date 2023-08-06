@@ -86,8 +86,12 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1155813
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/319457
 #EXTINF:-1 tvg-id="" tvg-name="CO | NTN24" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png"  group-title="⭐️ Colombia",COL| NTN24  
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/319458
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/319461
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN
+http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/22137
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc2
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235074.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc3
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/319462
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN Internacional HD" tvg-logo="http://streamgo.vip:8008/images/03f202aea63e665db73316d8f1ece753.png" group-title="⭐️ Colombia ",COL| RCN Internacional  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137016.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png"  group-title="⭐️ Colombia",COL| Señal Colombia  
@@ -552,6 +556,10 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/269319
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35288.ts
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq55C0ulG8PcrNo9tfGmcjcGXUatKuxlY1yg&usqp=CAU" group-title="⭐️Estrenos 2023",tortugas ninja:caos mutante 
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/336307.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsSjmfSwURGiXgwYkhOTUmXk1u_795is4EsA&usqp=CAU" group-title="⭐️Estrenos 2023", megalodón 2: el gran abismo 
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/336306.mp4
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6u93QFujqgwDGDxJGhA_uFfEcPIuSsjSSXQ&usqp=CAU" group-title="⭐️Estrenos 2023",el reino secreto (2023)
 http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/332560.mp4
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKp3kvAB1wUw_UcBvIXhKpPHHlv0bHCbudA&usqp=CAU" group-title="⭐️Estrenos 2023",la inscripción mas profunda (2023)
