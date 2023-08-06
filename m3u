@@ -211,6 +211,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276834
 #EXTINF:-1 tvg-id="" tvg-name="CINE - SEO TV PELICULAS" tvg-logo="http://descargas.podzone.net/logos/-SEO-tv-peliculas.png" group-title="⭐️ Cine Premium",CINE| SEO TV PELICULAS
 http://tv.nousiptv.com:8080/128922/fabiopadula/1148845
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7ljkddpo11xd8hw2n6uug/retromagico.png?rlkey=4bfnfqfzg2e33hhgvi91llhyl&dl=0" group-title="⭐️ Cine Premium",CINE| retro magico
+https://vsd113.mycdn.me:443/hls/4858246007425.m3u8/sig/49nPDU0zIPw/expires/1691445937534/srcIp/190.60.36.91/urls/185.226.52.97/clientType/0/srcAg/CHROME_ANDROID/mid/6035274800769/4858246007425_high/index.m3u8
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
