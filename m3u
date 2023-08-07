@@ -123,13 +123,13 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1lfkia9vr2crdecck163/atv.png?rlkey=qf5tnemsd82g4jo5jjpnu5vlp&dl=0"  group-title="⭐️ Colombia",COL| atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/am2x44nomzeb46ribnai4/enlacetl.png?rlkey=ljunq17cbd4fy0mdw6jsmg7nc&dl=0"  group-title="⭐️ Colombia",COL| enlace televisión 
-https://edge.teveo.com.co:443/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmTQSGW-PCRbAAAA/chunklist_w357795641.m3u8
+https://edge.teveo.com.co:443/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmTRCQe1ThRxAAAA/chunklist_w550443777.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/68ohovojacey8uj2izb12/mastl.png?rlkey=jniwnd9351do0o0xikeg6gs3b&dl=0"  group-title="⭐️ Colombia",COL| mas televisión 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u5of1rpxlz2jns4d8lzyl/tlpetroleo.png?rlkey=l0puvndujstngogimjhg0sblu&dl=0"  group-title="⭐️ Colombia",COL| tele petróleo 
-https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmTQSiC-PCRbAAAA/chunklist_w1936091816.m3u8
+https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmTRCiy1ThRxAAAA/chunklist_w1768226594.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pkhamv7g4l0j65t3vu7zm/doce.png?rlkey=plufol538ile53kvbj2c00bj3&dl=0"  group-title="⭐️ Colombia",COL| canal doce
-https://playback2.akamaized.net/streams/27724665_10924899_lsicjykbw5h8rdmxgl2_1/master.m3u8?dw=80&hdnts=exp=1691372606~acl=/streams/27724665_10924899_lsicjykbw5h8rdmxgl2_1/master.m3u8*~hmac=d9d0542fc39bc50685cabf598854f32d910c61b3cbb0b494c2933641cc4c7114
+https://playback2.akamaized.net/streams/27724665_10924899_lsicjykbw5h8rdmxgl2_1/master.m3u8?dw=80&hdnts=exp=1691421776~acl=/streams/27724665_10924899_lsicjykbw5h8rdmxgl2_1/master.m3u8*~hmac=24b7d260e6f61c0421ad0ec4e448c121efec37d047d7fd2a0b1196fc159e4c62
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
