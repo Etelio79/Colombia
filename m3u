@@ -123,11 +123,13 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1lfkia9vr2crdecck163/atv.png?rlkey=qf5tnemsd82g4jo5jjpnu5vlp&dl=0"  group-title="⭐️ Colombia",COL| atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/am2x44nomzeb46ribnai4/enlacetl.png?rlkey=ljunq17cbd4fy0mdw6jsmg7nc&dl=0"  group-title="⭐️ Colombia",COL| enlace televisión 
-https://edge.teveo.com.co:443/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmTRCQe1ThRxAAAA/chunklist_w550443777.m3u8
+https://edge.teveo.com.co:443/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmTScCa1ThRxAAAA/chunklist_w698606588.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/68ohovojacey8uj2izb12/mastl.png?rlkey=jniwnd9351do0o0xikeg6gs3b&dl=0"  group-title="⭐️ Colombia",COL| mas televisión 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u5of1rpxlz2jns4d8lzyl/tlpetroleo.png?rlkey=l0puvndujstngogimjhg0sblu&dl=0"  group-title="⭐️ Colombia",COL| tele petróleo 
-https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmTRCiy1ThRxAAAA/chunklist_w1768226594.m3u8
+https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmTScK21ThRxAAAA/chunklist_w2038185657.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h7rxr1jsrsfh3p6lyuz4b/teleislas.png?rlkey=yf4u6185n3axrg9b4bsmj2pxr&dl=0"  group-title="⭐️ Colombia",COL| tele-islas
+https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w1292116891.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pkhamv7g4l0j65t3vu7zm/doce.png?rlkey=plufol538ile53kvbj2c00bj3&dl=0"  group-title="⭐️ Colombia",COL| canal doce
 https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/237145825.secure.m3u8?dw=80&hdnea=st=1691421370~exp=1691423170~acl=/i/27724665_10924899_lsicjykbw5h8rdmxgl2_1@408423/*~hmac=f5c22f85692572b356a0c6c0b13c4aefb896d0c1dc1454b3d98c316d2c1b7247&token=64d10be6_3e5cae4a746bdb475bc4940c49b5c2f7ee3c59fe
 
@@ -390,6 +392,8 @@ http://kiubo.biz:80/Nicolay@022/Nico@0223/111823.ts
 http://kiubo.biz:80/Nicolay@022/Nico@0223/195736.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS 
 http://tvpanel.one:80/live/Fenix/DDD19PPP80/434493.ts
