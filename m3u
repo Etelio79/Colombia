@@ -118,20 +118,11 @@ http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 https://canaltrece-live.logicideas.media:443/canaltrece-live/smil:livebk.smil/chunklist_w216528419_b2250000_sles.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0atghlvhw768gx80q3tns/eureka.png?rlkey=szx6lvg9yvg2t5p3rcqemqw4i&dl=0"  group-title="⭐️ Colombia",COL| Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/imnz2bbb7f87ovt1tg67c/zoom.png?rlkey=3q8tdsbylldu13gc326502cve&dl=0"  group-title="⭐️ Colombia",COL| canal zoom
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1lfkia9vr2crdecck163/atv.png?rlkey=qf5tnemsd82g4jo5jjpnu5vlp&dl=0"  group-title="⭐️ Colombia",COL| atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/am2x44nomzeb46ribnai4/enlacetl.png?rlkey=ljunq17cbd4fy0mdw6jsmg7nc&dl=0"  group-title="⭐️ Colombia",COL| enlace televisión 
-https://edge.teveo.com.co:443/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmTScCa1ThRxAAAA/chunklist_w698606588.m3u8
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/68ohovojacey8uj2izb12/mastl.png?rlkey=jniwnd9351do0o0xikeg6gs3b&dl=0"  group-title="⭐️ Colombia",COL| mas televisión 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u5of1rpxlz2jns4d8lzyl/tlpetroleo.png?rlkey=l0puvndujstngogimjhg0sblu&dl=0"  group-title="⭐️ Colombia",COL| tele petróleo 
-https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmTScK21ThRxAAAA/chunklist_w2038185657.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h7rxr1jsrsfh3p6lyuz4b/teleislas.png?rlkey=yf4u6185n3axrg9b4bsmj2pxr&dl=0"  group-title="⭐️ Colombia",COL| tele-islas
-https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w1292116891.m3u8
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pkhamv7g4l0j65t3vu7zm/doce.png?rlkey=plufol538ile53kvbj2c00bj3&dl=0"  group-title="⭐️ Colombia",COL| canal doce
-https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/237145825.secure.m3u8?dw=80&hdnea=st=1691421370~exp=1691423170~acl=/i/27724665_10924899_lsicjykbw5h8rdmxgl2_1@408423/*~hmac=f5c22f85692572b356a0c6c0b13c4aefb896d0c1dc1454b3d98c316d2c1b7247&token=64d10be6_3e5cae4a746bdb475bc4940c49b5c2f7ee3c59fe
+
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
