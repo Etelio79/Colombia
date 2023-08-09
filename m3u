@@ -65,6 +65,8 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136630
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136587
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-GA4RyC5nZ_IOkt4Ky3-wJbQrxSDYc3BjQ&usqp=CAU" group-title="✅ 24/7 VIP",CANTINFLAS
 http://tv.nousiptv.com:8080/128922/fabiopadula/1144258
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjJMguBkLO6-pWhKeajdpVw8nXCySM7_SZQ&usqp=CAU" group-title="✅ 24/7 VIP",caso cerrado 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/138119.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6af31gz437zh58hmg5hir/cablenoticias.png?rlkey=a63aa3714qe4pz0qr0w50qjs8&dl=0"  group-title="⭐️ Colombia",COL| Cablenoticias  
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/319448
@@ -174,6 +176,8 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102398.ts
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
 #EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount+
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171909.ts
+#EXTINF:-1  tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="⭐️ Cine Premium",CINE| amc
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102171.ts
 #EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="E | A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/304991
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="⭐️ Cine Premium",CINE| START CHANNEL
