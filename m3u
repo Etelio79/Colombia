@@ -222,7 +222,7 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/1148845
 https://vsd203.mycdn.me:443/hls/4858246007425.m3u8/sig/R45aXu-TaTQ/expires/1691584226539/srcIp/190.60.36.91/urls/45.136.21.45/clientType/0/srcAg/CHROME_ANDROID/mid/6035274800769/4858246007425_high/index.m3u8
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
-http://legendstv.c22/Nico@0223/102114.ts
+http://tv.nousiptv.com:8080/128922/fabiopadula/4067
 #EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276804
 #EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
