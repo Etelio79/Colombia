@@ -218,7 +218,14 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318632
 #EXTINF:-1 tvg-id="" tvg-name="CINE - SEO TV PELICULAS" tvg-logo="http://descargas.podzone.net/logos/-SEO-tv-peliculas.png" group-title="⭐️ Cine Premium",CINE| SEO TV PELICULAS
 http://tv.nousiptv.com:8080/128922/fabiopadula/1148845
-
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="⭐️ Cine Premium",CINE| SUNDANCE TV
+http://tv.nousiptv.com:8080/128922/fabiopadula/4101
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="⭐️ Cine Premium",CINE| PANICO TV 
+http://tv.nousiptv.com:8080/128922/fabiopadula/7436
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="⭐️ Cine Premium",CINE| MORBID TV
+http://tv.nousiptv.com:8080/128922/fabiopadula/33364
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="⭐️ Cine Premium",CINE| CINE ESTELAR
+http://tv.nousiptv.com:8080/128922/fabiopadula/1156007
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102114.ts
