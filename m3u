@@ -78,9 +78,9 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318370
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png"  group-title="⭐️ Colombia",COL| Canal Uno  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235066.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL  
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235068.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL opc2
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318373
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL opc2
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318372
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL opc3
 http://tv.nousiptv.com:8080/128922/fabiopadula/1155787
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia" ,COL| Caracol Internacional  
@@ -92,11 +92,11 @@ http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318379
 #EXTINF:-1 tvg-id="" tvg-name="CO | NTN24" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png"  group-title="⭐️ Colombia",COL| NTN24  
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318380
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN
-http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/22137
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc2
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/235074.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc3
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318384
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc2
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318383
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc3
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318383
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN Internacional HD" tvg-logo="http://streamgo.vip:8008/images/03f202aea63e665db73316d8f1ece753.png" group-title="⭐️ Colombia ",COL| RCN Internacional  
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318383
 #EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png"  group-title="⭐️ Colombia",COL| Señal Colombia  
