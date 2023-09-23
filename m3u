@@ -366,6 +366,8 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111924.ts
 https://srv1.zcast.com.br:443/kpoptv/kpoptv/chunklist_w1039977214.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica",MUS| circuito pop 
 https://cdapop.streaming.ws:443/circuitopoptv/live/chunklist_w1072026756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotv_igzlWi45ybDzX_1GalB_wH7PtKayicA&usqp=CAU" group-title="⭐️ Musica",MUS| tocahits
 https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYmodTDI0wtBdAYgWWed6B0mM2B0qHnKnhw&usqp=CAU" group-title="⭐️ Musica",MUS| salsa 
