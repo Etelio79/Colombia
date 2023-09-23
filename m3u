@@ -374,16 +374,6 @@ https://panel.miplay.cl:8081/mix247tv/tracks-v1a1/mono.m3u8
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/321060
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU" group-title="⭐️ Musica",MUS| la despechada tv
 https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fi3MAmTfI5N9ApS66GmX_85nP9fz9PTcrQ&usqp=CAU" group-title="⭐️ Musica",MUS| mc 90's
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/109977.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fi3MAmTfI5N9ApS66GmX_85nP9fz9PTcrQ&usqp=CAU" group-title="⭐️ Musica",MUS| mc pop latino
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/109931.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fi3MAmTfI5N9ApS66GmX_85nP9fz9PTcrQ&usqp=CAU" group-title="⭐️ Musica",MUS| mc tropicales
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/109898.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fi3MAmTfI5N9ApS66GmX_85nP9fz9PTcrQ&usqp=CAU" group-title="⭐️ Musica",MUS| mc musica urbana 
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/109939.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fi3MAmTfI5N9ApS66GmX_85nP9fz9PTcrQ&usqp=CAU" group-title="⭐️ Musica",MUS| mc hip hop
-http://tvpanel.one:80/live/Fenix/DDD19PPP80/109960.ts
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUq7x0_xgeptrCP_HCMveyxxBL7OHfD01cQ&usqp=CAU" group-title="⭐️ Musica",MUS| 88 stereo
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234808.ts
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRm3tHbFOMKIyAsnuhmvna5JeW0ls85tuk3Q&usqp=CAU" group-title="⭐️ Musica",MUS| la maxima fm
@@ -580,6 +570,18 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35234.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
 http://kiubo.biz:80/Nicolay@022/Nico@0223/35288.ts
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemilY5YKlQum7Tv1-0lnqCAt840h8dBqnrQ&usqp=CAU" group-title="⭐️Estrenos 2023", bunker - 2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/339123.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMO7hta_9f8aoizL0z2sRuXhlGxElTt5qdZA&usqp=CAU" group-title="⭐️Estrenos 2023", caseria en venecia - 2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/339128.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65EwUHWqNQ5r9oUvOLH8U8VqZ-QfGyFStQw&usqp=CAU" group-title="⭐️Estrenos 2023", un dia como leon - 2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/329527.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5i9eU6fJCtT6e_SCrj71FM-g7_CrxXz5mg&usqp=CAU" group-title="⭐️Estrenos 2023", inside man -2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/327926.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YqQ27vUDEVWpp3JbHbzLBgjTc_bBi9oO7g&usqp=CAU" group-title="⭐️Estrenos 2023", el conde - 2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/337462.mp4
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEoG21zJXdsj536zvy0WaNrgD7EpdaOL03A&usqp=CAU" group-title="⭐️Estrenos 2023", equalizer:capitulo final  - 2023
+http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/337098.mp4
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAILC2SetKC_yi8LePWAxy9KvavLuNlh7llg&usqp=CAU" group-title="⭐️Estrenos 2023",la monja 2 - 2023
 http://streamgo.vip:8008/movie/etelio@79/enVGNgzc3WTD/335144.mp4
 #EXTINF:-1  tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2023/08/iBLx1AWWn1hUCrWaH5QfOxI6Hh7-200x300.jpg" group-title="⭐️Estrenos 2023", Boogeyman - 2023
