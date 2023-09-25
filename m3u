@@ -362,6 +362,22 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111919.ts
 #EXTINF:-1 tvg-id="" tvg-name="Law & Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmR04BIKtc263E3JV7PO-xE5cBYcHlxuvvnA&usqp=CAU" group-title="⭐️ Tv Religiosos",REL| vida tv
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111924.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZRGDDWLiO3Ij2LLGKCUUsoZVLiisrBTjCA&usqp=CAU" group-title="⭐️ Musica",MUS| mc y2k
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/237996.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyNV-Nc_cNuV--khP0P5PsqqThgOS7ZDLvA&usqp=CAU" group-title="⭐️ Musica",MUS| mtv live
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111811.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAkL7X6Yk_fFLy3wMz6SvNI5uTi5ODLiCl4A&usqp=CAU" group-title="⭐️ Musica",MUS| htv
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111821.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi-eFUZ4aO0X3BVcB7wFDE2e8-IVvbY01nA&usqp=CAU" group-title="⭐️ Musica",MUS| classic proyect - pop
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/238004.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi-eFUZ4aO0X3BVcB7wFDE2e8-IVvbY01nA&usqp=CAU" group-title="⭐️ Musica",MUS| classic proyect - salsa
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/237998.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi-eFUZ4aO0X3BVcB7wFDE2e8-IVvbY01nA&usqp=CAU" group-title="⭐️ Musica",MUS| classic proyect - español
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/238016.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi-eFUZ4aO0X3BVcB7wFDE2e8-IVvbY01nA&usqp=CAU" group-title="⭐️ Musica",MUS| classic proyet - regueton
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/238015.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi-eFUZ4aO0X3BVcB7wFDE2e8-IVvbY01nA&usqp=CAU" group-title="⭐️ Musica",MUS| classic proyec - rock
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/238006.ts
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_8esGxnB6cpVejUPQ4JfzeYCtzcGmoSKmVw&usqp=CAU" group-title="⭐️ Musica",MUS| vclassic tv
 http://gotv.vip:8880/Angel2023/Angel2023/36677
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRH588DRP5mYHC0HtH7DcxigsPGqMWea1Q&usqp=CAU" group-title="⭐️ Musica",MUS| latin zona
@@ -397,7 +413,7 @@ http://kiubo.biz:80/Nicolay@022/Nico@0223/195736.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125950.ts
