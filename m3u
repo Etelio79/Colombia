@@ -415,6 +415,35 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331291
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO INTERNACIONA 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102176.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 52 LOS ANGELES 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102175.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 25 DENVER
+http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/156946
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 39 LAS VEGAS
+http://latintvec.com:43201/DEcheverry2022/NXdDjDwCkX/156949
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO Philadelphia 
+http://magmas5.com:8000/Oscar86/40473/148724
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="⭐️ Usa Latinos", UNIMAS HOUSTON
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137181.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="⭐️ Usa Latinos", UNIMAS NEW YORK
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137183.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="⭐️ Usa Latinos", UNIMAS FRESNO
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/137180.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="⭐️ Usa Latinos", UNIMAS Philadelphia 
+http://magmas5.com:8000/Oscar86/40473/148895
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION LOS ANGELES 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203248.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION MIAMI
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/203249.ts
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION NEW-YORK
+http://magmas5.com:8000/Oscar86/40473/148711
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION Philadelphia 
+http://magmas5.com:8000/Oscar86/40473/148725
+
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS 
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125950.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS opc 2
