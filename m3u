@@ -420,7 +420,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234822.ts
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234812.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331263
+https://video20.klm99.com:3621/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAKcOdg2leHP6yrI0bssuvIzvHerfOVkQ8g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 4  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234820.ts
 #EXTINF:-1 tvg-id="" tvg-name="06 | Santa Cruz Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bs3fXhgB0jK9qD0gqO3v4p3HgEzqzJAi1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR| limon Tv  
@@ -435,16 +435,14 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234833.ts
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234813.ts
 #EXTINF:-1 tvg-id="" tvg-name="12 | Teletica 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Teletica 7  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234831.ts
-#EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWYdiI4fUGKrLOsjhgr58BSFExdTSShXsUQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331256
+#EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
+https://video20.klm99.com:3558/hybrid/play.m3u8http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234817.ts
 #EXTINF:-1 tvg-id="" tvg-name="14 | Mastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extrema tv  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234814.ts
 #EXTINF:-1 tvg-id="" tvg-name="21 | Multimedios Canal 8 HD" tvg-id="" tvg-name="CR| Multimedios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9REhLS4hjKN0DZ8wS9JT5z0d-XA7gD91pQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Multimedios Canal 8  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234817.ts
 #EXTINF:-1 tvg-id="" tvg-name="23 | Ticavision Canal 52 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVef6QJ6S5zC9QLr99Was2J-kp8J56Td2Y3w&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Ticavision  
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/331272
-#EXTINF:-1 tvg-id="" tvg-name="24 | Antena 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQR80AsdpzlJKVD0VK-q4qqOM29_JUTI-7PA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Antena 6  
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/161667
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDkpyfDL4aVT_YseRom0PC1cTlbq_v2Mvig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 11  
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234819.ts
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoRq757CbiO_PybhbLxyZDXkqrFSpT_tvcg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TRIVISION
