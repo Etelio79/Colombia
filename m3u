@@ -612,7 +612,10 @@ http://magmas5.com:8000/Oscar86/40473/160068
 http://magmas5.com:8000/Oscar86/40473/160071
 #EXTINF:-1 tvg-id="" tvg-name="(VIP) CAN| TSN 1 HD" tvg-logo="http://descargas.podzone.net/logos/-star+.png"group-title=" ⭐️ Deporte VIP", STAR + opc3 
 http://magmas5.com:8000/Oscar86/40473/152908
-
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXy2Z4mwo414Xcp7kbXuc5jkrghGpe35tHA&usqp=CAU" group-title=" ⭐️ Deporte VIP", td + (costa rica)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234824.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title=" ⭐️ Deporte VIP",td + 2 (costa rica)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/234826.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-FUTV.png" group-title=" ⭐️ Deporte VIP",FUTV (costa rica)
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36170.ts
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-TENNIS-CHANNEL.png" group-title=" ⭐️ Deporte VIP", TENNIS CHANNEL 
