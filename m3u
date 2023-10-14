@@ -47,30 +47,6 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&
 #EXTINF:-1 tvg-id="" tvg-name="Disney Live Action ⁽ᴴᴰ⁾." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU" group-title="✅ 24/7 Cine", cinema 08
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
 
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbp_2G_Ml-TtJW_mmebQTowaIcq42SOTtsFQ&usqp=CAU" group-title="✅ 24/7 VIP", CHESPIRITO 
-http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlAxvZqH3oe09w7kyMU-d5Xk/ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPMfhty6fYUIxzp5ea048QnK5Pa2xyGK7A&usqp=CAU" group-title="✅ 24/7 VIP", EL CHAVO DEL 8
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136624
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tO8l1aYMkZl4bsvPDmzDxRBjhdmFb7yzYA&usqp=CAU" group-title="✅ 24/7 VIP", EL CHAPULÍN COLORADO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136623
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFevMuRropxjubGTFGo6uhm9-QxSrhwWDI3w&usqp=CAU" group-title="✅ 24/7 VIP", ALF
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318444
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ONrz8PIQ58oziEeYva_VdF9jH4ghzFWdtQ&usqp=CAU" group-title="✅ 24/7 VIP",HECHISADA 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136625
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsiDrKfWAzOoKVuR5yLT69i6uvFtMyWtFT3w&usqp=CAU" group-title="✅ 24/7 VIP",LA FAMILIA P.LUCHE
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136584
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGdCtamfv4jsO8vk55c2I4HVNFqtBLoXBlg&usqp=CAU" group-title="✅ 24/7 VIP",LA ROSA DE GUADALUPE 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136601
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l7XXxrA09Wf7s762Q0ilY71KOwZqxCn85A&usqp=CAU" group-title="✅ 24/7 VIP",MI BELLA GENIO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136630
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQgdcQTOx52k-0Auoem1m5U_CBOAs9739mg&usqp=CAU" group-title="✅ 24/7 VIP", SUPER AGENTE 86
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/136587
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-GA4RyC5nZ_IOkt4Ky3-wJbQrxSDYc3BjQ&usqp=CAU" group-title="✅ 24/7 VIP",CANTINFLAS
-http://tv.nousiptv.com:8080/128922/fabiopadula/1144258
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjJMguBkLO6-pWhKeajdpVw8nXCySM7_SZQ&usqp=CAU" group-title="✅ 24/7 VIP",caso cerrado 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/138119.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png"  group-title="⭐️ Colombia",COL| Cablenoticias  
 http://visi4k.site:8080/play/gbxr3_mnGQtOr_VzJPFWlGqQdd858KbgjsgwQKsoY_k/ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="http://streamgo.vip:8008/images/7da05d11d78e8951326c0b1d72928161.png"  group-title="⭐️ Colombia",COL| Canal Capital  
@@ -128,29 +104,29 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155792
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318643
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4109
 #EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
-http://tv.nousiptv.com:8080/128922/fabiopadula/4017
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4017
 #EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine Premium",CINE| HBO Xtreme
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/44341
 #EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine Premium",CINE| HBO Mundi
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1143815
 #EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine Premium",CINE| HBO POP
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/47445
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102381.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155796
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318709
 #EXTINF:-1 tvg-id="CINL" tvg-name="P | Cine Latino" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="⭐️ Cine Premium",CINE| Cine Latino
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102354.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4136
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="2MB | CINEMAX LQ" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="⭐️ Cine Premium",CINE| Cinemax
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1068350
 #EXTINF:-1 tvg-id="CLACIAM" tvg-name="P | Claro Cinema" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="⭐️ Cine Premium",CINE| Claro Cinema
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102360.ts
+http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/4145
 #EXTINF:-1 tvg-id="DPLUSSD" tvg-name="P | De Pelicula" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="⭐️ Cine Premium",CINE| De Pelicula
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102361.ts
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="P | De Pelicula Clásico" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="⭐️ Cine Premium",CINE| De Pelicula Clásico
