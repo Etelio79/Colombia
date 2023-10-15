@@ -592,49 +592,6 @@ http://tv.nousiptv.com:8080/128922/fabiopadula/29832
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title=" ⭐️ Deporte VIP",TIGO SPORTS 2 (Paraguay)
 http://tv.nousiptv.com:8080/128922/fabiopadula/7450
 
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="⭐️ Deporte Ecuador",EC | GOL TV 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/167741
-#EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="⭐️ Deporte Ecuador",EC | EL CANAL DEL FUTBOL 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/36144.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 1" tvg-logo="http://descargas.podzone.net/logos/-liga-1.png" group-title="⭐️ Deporte Perú",PE | LA LIGA 1 (Perú)
-http://tv.iprotv.live:25461/ecu333888444/5Eu8pJq6bL/52172
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA MAX" tvg-logo="http://descargas.podzone.net/logos/-liga-1.png" group-title="⭐️ Deporte Perú",PE | LA LIGA 1 MAX (Perú)
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/286827
-#EXTINF:-1 tvg-id="" tvg-name="PERU - GOL PERU SD" tvg-logo="http://descargas.podzone.net/logos/-gol-peru.png" group-title="⭐️ Deporte Perú",PE | GOL TV peru
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/166609
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA 1" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uay9kpsnm839rama8puo0/1689944050529.png?rlkey=ox0qzgjsjt50efxqcfflhb4x7&dl=0" group-title="⭐️ Deporte Perú",PE | contacto deportivo 
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/216045
-
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+DEPORTES 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGP_m4iNAEre8eLl_OQ3f8TkqZpZzWGrGCg&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | MOVISTAR DEPORTES 1 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612206&extension=ts&play_token=YDDPcikydm
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+DEPORTES 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGP_m4iNAEre8eLl_OQ3f8TkqZpZzWGrGCg&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | MOVISTAR DEPORTES 2 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612234&extension=ts&play_token=7Ct1MHqRfj
-#EXTINF:-1 tvg-id="" tvg-name="ES | M+DEPORTES 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGP_m4iNAEre8eLl_OQ3f8TkqZpZzWGrGCg&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | MOVISTAR DEPORTES 3 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612246&extension=ts&play_token=kA24U8PlCn
-#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA TV BAR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMRrFT20kRcE5lHjBa9HshPhfF4ftgfaXoA&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | MOVISTAR VAMOS
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612226&extension=ts&play_token=rBdCnIHbyU
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LA LIGA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKVQkcnjMBzNlxzoCaDEVAXzlSNoy9LMSsA&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | LA LIGA 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=765169&extension=ts&play_token=eexqAR2AQb
-#EXTINF:-1 tvg-id="" tvg-name="ES | LA LIGA SMARTBANK HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGXNGgmn2-2I7srKDV7o4zkRCUpUrmqmDbg&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | LA LIGA SMARTBANK 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=765168&extension=ts&play_token=zHcmMflauX
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSswGm5X4_flwtBNKo2vCFvL_cI8i8nGMe_w&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | tele deportes 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612258&extension=ts&play_token=0AXg7jHG3L
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_veq1VDwnxtAnq5W5RrXd7PKMvBEQQAMz3g&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | REAL MADRID TV
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505616&extension=ts&play_token=ysXzvegSoH
-#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN SPORT Ñ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | BEIN SPORT Ñ 
-http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125903.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN SPORT Ñ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3wDI7PLqZ_J_OJJYSS9idqNi5G1a5zg-JQ&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | EUROSPORTS 1
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505633&extension=ts&play_token=MQa0KoQnkw
-#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN SPORT Ñ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLztfl-HZhrRTRCELlapfp-z6dOb21arhfZQ&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | EUROSPORTS 2
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505634&extension=ts&play_token=TWWBKLtB0d
-#EXTINF:-1 tvg-id="" tvg-name="ES | BEIN SPORT Ñ HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwM3BZXphCaK-PBk--xIth5v5N7zYC1pcuQ&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | MEGA
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612125&extension=ts&play_token=QfSeBJs7wn
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIu1_fAo5v-H7i2SB787--BQPdSjTxwp4OtA&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | TOROS TV  
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=721112&extension=ts&play_token=5Tkgi9r7W7
-#EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySXvUknOAvVQy-obRACC--spZt1jievcr-A&usqp=CAU" group-title="⭐️ Tv Deporte España",ES | GOL PLAY 
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=505614&extension=ts&play_token=yhindZAq4D
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
 http://gotv.vip:8880/Angel2023/Angel2023/20587
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 2
