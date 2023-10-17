@@ -50,11 +50,11 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&
 #EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png"  group-title="⭐️ Colombia",COL| Cablenoticias  
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155805
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="http://streamgo.vip:8008/images/7da05d11d78e8951326c0b1d72928161.png"  group-title="⭐️ Colombia",COL| Canal Capital  
-
+http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/270587
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png"  group-title="⭐️ Colombia",COL| Canal Uno  
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1066863
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL  
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155787
+http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/135038
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL opc2
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155783
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png"  group-title="⭐️ Colombia",COL| CARACOL opc3
@@ -458,7 +458,7 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/410644
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/410651
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS 
-http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155795
+http://samuraitv.online:8000/ReestreamInternoPlus/mLhRuBcGn94Xe/135039
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS opc 2
 http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHHotQKUSV4xe5dapO-xcudA
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="⭐️ Deporte Colombia",COL |  WIN SPORTS opc 3
@@ -469,8 +469,7 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0" group-title="⭐️ Deporte Colombia",COL | WIN SPORT+ opc 3
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="⭐️ Deporte Colombia",COL | ESPN SPORT 1 
-http://kiubo.biz:80/Nicolay@022/Nico@0223/35260.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (CHI)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="⭐️ Chile Deporte",CH | FOX SPORTS 1 
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/120545
