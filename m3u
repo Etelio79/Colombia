@@ -228,7 +228,7 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/1155823
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="⭐️ Cultura",CUL| Nat Geo
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/171024.ts
 #EXTINF:-1 tvg-id="TLCNANZ" tvg-name="C | TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="⭐️ Cultura",CUL| TLC
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/389836
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/169851.ts
 #EXTINF:-1 tvg-id="" tvg-name="C | Cocina TV" tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="⭐️ Cultura",CUL| Cocina TV
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612289&extension=ts&play_token=3zpQUO1DmQ
 
@@ -250,13 +250,13 @@ http://motivatv.club:80/play/SQXiFaZC828LBf2TCfjnHBffrIqJsaoi8sNueGjk6cw
 #EXTINF:-1 tvg-id="STOONHD" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="⭐️ Infantiles",INF| CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DISXSAP" tvg-name="NIÑOS | DISNEY XD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8WL-H7GO2Yv0DQFD8wBh7B50XCN9EDVpQw&usqp=CAU " group-title="⭐️ Infantiles",INF| DISNEY XD
-
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190095.ts
 #EXTINF:-1 tvg-id="TNCSTEN" tvg-name="KIDS | Tooncast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU" group-title="⭐️ Infantiles",INF| Tooncast
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170074.ts
 #EXTINF:-1 tvg-id="NCKANZ" tvg-name="KIDS | Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU" group-title="⭐️ Infantiles",INF| Nickelodeon
-http://gotv.vip:8880/Angel2023/Angel2023/105
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190163.ts
 #EXTINF:-1 tvg-id="NKJRNOR" tvg-name="NIÑOS | Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo -title="⭐️ Infantiles",INF| Nick Jr
-http://gotv.vip:8880/Angel2023/Angel2023/106
+https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/190162.ts
 #EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | Disney Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToaBRgehSgq1nbHkxKT86bqMANW2o9LUwSQ&usqp=CAU " group-title="⭐️ Infantiles",INF| disney jr
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170066.ts
 #EXTINF:-1 tvg-id="DISN" tvg-name="KIDS | Disney Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciCyrjS_Qe7hYYPNP6M0JtrAUBwAUcJJWGg&usqp=CAU" group-title="⭐️ Infantiles",INF| Disney Channel
