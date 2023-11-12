@@ -467,6 +467,8 @@ http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16723
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/54738
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/frb4p3hyjori50ai7oh3f/win-sports.png?rlkey=hkluj62z2ihegojc24d08km87&dl=0" group-title="⭐️ Deporte Colombia",COL | WIN SPORT+ opc 3
 http://tv.nousiptv.com:8080/ipcsella56/metsiez5230/16724
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png"  group-title="⭐️ Deporte Colombia",COL |  ESPN SPORTS
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/287812
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png"  group-title="⭐️ Argentina Deporte",AR | FOX SPORTS 1 
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/184455.ts
@@ -475,13 +477,13 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/184456.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png"  group-title="⭐️ Argentina Deporte",AR | FOX SPORTS 3 
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/184457.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png"  group-title="⭐️ Argentina Deporte",AR | ESPN SPORTS 1 
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426029
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/327914
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png"  group-title="⭐️ Argentina Deporte",AR | ESPN SPORT 2 
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426030
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/327915
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png"  group-title="⭐️ Argentina Deporte",AR | ESPN SPORT 3 
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/426032
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/327916
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 4" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png"  group-title="⭐️ Argentina Deporte",AR | ESPN SPORTS 4 
-http://mozzatv.com.es:2082/geonati/5D4j4yDAZD5Q/393376
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/327917
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png"  group-title="⭐️ Argentina Deporte",AR | TYC SPORTS 
 https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/184458.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png"  group-title="⭐️ Argentina Deporte",AR | TNT SPORTS
@@ -510,7 +512,7 @@ http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523080
 #EXTINF:-1 tvg-id="" tvg-name="ADRENALINA SPORTS" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png"  group-title=" ⭐️ Deporte VIP",ADRENALINA (Mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/523078
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS EXTRA" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN EXTRA (mexico)
-https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/170330.ts
+http://streamgo.vip:8008/x98kld/ZCXMYmmPkRav/167771
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN (mexico)
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/396794
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title=" ⭐️ Deporte VIP",TUDN (Usa)
