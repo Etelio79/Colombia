@@ -547,6 +547,8 @@ http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=612267&
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=554553&extension=ts&play_token=RZQKbmNZ0v
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0NvnCGCHi3vD6z0lbfIPFUHjMSsryWPptQ&usqp=CAU" group-title="⭐️Estrenos 2023",leo - dual
+http://cineplay.vip:8080/movie/fcorzo23/UqZqrEkQcY/257447.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg" group-title="⭐️Estrenos 2023",Abandonada (2022)
 http://mozzatv.com.es:2082/movie/geonati/5D4j4yDAZD5Q/370620.mkv
 #EXTINF:-1 tvg-id="" tvg-name="After: Amor infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbMYV7fR9ygl5PGlM6MBZ7Vgjef.jpg" group-title="⭐️Estrenos 2023",After: Amor infinito (2022)
