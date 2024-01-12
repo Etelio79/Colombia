@@ -352,7 +352,7 @@ http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125907
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
-http://factoryplay.online:8080/Klev73Arm/AR73xnet/286852
+https://video20.klm99.com:3621/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAKcOdg2leHP6yrI0bssuvIzvHerfOVkQ8g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 4  
 http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125908
 #EXTINF:-1 tvg-id="" tvg-name="06 | Santa Cruz Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bs3fXhgB0jK9qD0gqO3v4p3HgEzqzJAi1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR| limon Tv  
@@ -366,9 +366,9 @@ http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125913
 #EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
 http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/153423
 #EXTINF:-1 tvg-id="" tvg-name="12 | Teletica 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Teletica 7  
-http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125916
+http://tv.nousiptv.com:8080/Angela/3475599848/8148
 #EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
-http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125917
+http://novared.pro:8080/motors/checkmotors131021/218712
 #EXTINF:-1 tvg-id="" tvg-name="14 | Mastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extrema tv  
 http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/130053
 #EXTINF:-1 tvg-id="" tvg-name="21 | Multimedios Canal 8 HD" tvg-id="" tvg-name="CR| Multimedios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9REhLS4hjKN0DZ8wS9JT5z0d-XA7gD91pQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Multimedios Canal 8  
@@ -384,7 +384,7 @@ https://video20.klm99.com:3993/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| coto brus tv
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| costa rica channel
-https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| teve norte
 https://5fd8fec96951d.streamlock.net:443/TVN/CH14.stream_720p/chunklist_w425777611.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| garabito tv
@@ -394,7 +394,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBtNLdHLTTL4AA_waKvvrR_4P5hfvaBIEPA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| CDM 
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1648534825.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VoP8SblVK8J8dPnYOxYce0v1WCUzdmZPbA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| opa tv
-https://cageu.bozztv.com/ssh101/ssh101/opacanal38/playlist.m3u8
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| dreico tv
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUJEMQsjOmyzxDTomNXYkdnBQEU987uBcyA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| mega fucion tv
