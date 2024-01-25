@@ -336,11 +336,11 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://tropicaltv.com.co/images/about-img1.png" group-title="⭐️ Musica",MUS| tropical tv
 https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCA1ddWJjJj8EnQStI-F5Dtq__g5zAHJvTDw&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OR73koLD9QYlgaaQsEGa_fibrz8d78pcDw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| soy plancha tv
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz266hWi_34cRC2L0yuhyFo3ztCPAHTKTyqw&usqp=CAU" group-title="⭐️ Musica",MUS| soy plancha tv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
