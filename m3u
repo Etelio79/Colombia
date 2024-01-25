@@ -334,8 +334,8 @@ https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU" group-title="⭐️ Musica",MUS| la despechada tv
 https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUq7x0_xgeptrCP_HCMveyxxBL7OHfD01cQ&usqp=CAU" group-title="⭐️ Musica",MUS| tropical tv
-https://rpn3.bozztv.com/ssh101/ssh101/estvco/chunks.m3u8?nimblesessionid=71900915
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://tropicaltv.com.co/images/about-img1.png" group-title="⭐️ Musica",MUS| tropical tv
+https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
