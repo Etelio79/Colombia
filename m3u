@@ -69,7 +69,7 @@ http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/318383
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc2
 http://novared.pro:8080/motors/checkmotors131021/69268
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png"  group-title="⭐️ Colombia",COL| RCN opc3
-http://novared.pro:8080/motors/checkmotors131021/69267
+http://tvmate.icu:8080/Alan/Alan1234/78694
 #EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png"  group-title="⭐️ Colombia",COL| Señal Colombia  
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/318387
 #EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png"  group-title="⭐️ Colombia",COL| TeleAntioquia  
@@ -87,15 +87,15 @@ http://novared.pro:8080/motors/checkmotors131021/69288
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU"  group-title="⭐️ Colombia",COL| telecafe
 http://novared.pro:8080/motors/checkmotors131021/69278
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU"  group-title="⭐️ Colombia",COL| cosmovision 
-http://tv.nousiptv.com:8080/Angela/3475599848/1155810
+https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Colombia",COL| canal cnc 
-http://factoryplay.online:8080/Klev73Arm/AR73xnet/375729
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMNj7E8rn56uWnstFxNSt_tt3412HyJ7Ulw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal trece
-http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/574423
+http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL| tele isla
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU"  group-title="⭐️ Colombia",COL| Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal zoom
-https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
