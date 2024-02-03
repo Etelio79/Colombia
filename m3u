@@ -332,7 +332,7 @@ http://novared.pro:8080/motors/checkmotors131021/218737
 https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Musica",MUS| melody music
+#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Musica",MUS| melody channel
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU" group-title="⭐️ Musica",MUS| la despechada tv
 https://servidordevideo.com:3077/live/despechadalive.m3u8
