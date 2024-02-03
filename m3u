@@ -375,9 +375,9 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
-http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/125907
+https://d2t46xrpai3it5.cloudfront.net:443/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
-https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+https://d2t46xrpai3it5.cloudfront.net:443/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/Canal2CR/Canal2CR1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
 https://video20.klm99.com:3621/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAKcOdg2leHP6yrI0bssuvIzvHerfOVkQ8g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 4  
