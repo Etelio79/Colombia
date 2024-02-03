@@ -274,6 +274,12 @@ http://tv.nousiptv.com:8080/Angela/3475599848/4061
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/321969
 #EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0fJUpGaiZlWWS4_bk3RXJaXRyNO41it7ig&usqp=CAU" group-title="⭐️ Infantiles",INF| Nicktoons
 http://2.magmas5.com:8000/wbgs/5QDJ15CYWF/3665
+#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="⭐️ Infantiles",INF| cine kids
+https://stream.ads.ottera.tv/cl/240203cmv9lf5hg25hddlgk1pg/1920x1080_2900000_5_f.m3u8?i=475_3506
+#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="⭐️ Infantiles",INF| zaz tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
+#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCed2abD5S4dAtWyzUe-Inj6cFe5WJ6IHaYQ&usqp=CAU" group-title="⭐️ Infantiles",INF| etc tv
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/273684
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSel4znkPtmHoMCvrjQy6qlJVspdxSbtn-p1Q&usqp=CAU" group-title="⭐️ Infantiles",INF| paka paka
