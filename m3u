@@ -96,7 +96,14 @@ http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL|canal ctv
+https://59a564764e2b6.streamlock.net:443/ctvbarranquilla/ctv/chunklist_w1297601315.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL| canal 2 
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Canal-Telepetroleo-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL| tele petróleo 
+https://edge.teveo.com.co:443/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmW-SDG1ThRxAAAA/chunklist_w902952782.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVKlgjj0ogloOKddfH9WngSYGUwrXI2U5Eg&usqp=CAU"  group-title="⭐️ Colombia",COL| p&c televisión 
+https://edge.teveo.com.co:443/live/AeAAAgAkAANqA1IAyADIUDAAAAGAAAAAAmW-SZi1ThRxAAAA/chunklist_w483163796.m3u8
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/318654 
