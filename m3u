@@ -90,8 +90,8 @@ http://novared.pro:8080/motors/checkmotors131021/69278
 https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Colombia",COL| canal cnc 
 http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL| tele isla
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Canal-12-Valledupar-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Colombia",COL| cansl 12
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmW-NU--PCRbAAAA/chunklist_w1445280667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjX-rL_ABmrFD6AVNf7IsSHbsa2dhJJ-NWg&usqp=CAU"  group-title="⭐️ Colombia",COL| Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal zoom
