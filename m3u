@@ -191,6 +191,12 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://tv.nousiptv.com:8080/Angela/3475599848/1148845
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeqSCI_9RZTfpysXQ6RqD__sLSTAiAJRzjA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| CINE FAMILIAR 
 http://tv.nousiptv.com:8080/Angela/3475599848/1156760
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title="⭐️ Cine Premium",CINE| tvs retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ Cine Premium",CINE| extrema tv acción 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/394e05d5e8744ed45ecd74d4c8cb93dd.webp" group-title="⭐️ Cine Premium",CINE| top cine
+https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTix81gxQ2PBOVRp2YRCMfcjGZM0UZdplf48A&usqp=CAU" group-title="⭐️ Cine Premium",CINE| seo películas 
 https://live.seo.tv.bo/live/SEO-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| movie entretaiment
