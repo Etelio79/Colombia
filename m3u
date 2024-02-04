@@ -84,8 +84,6 @@ http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/318395
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/318397
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU"  group-title="⭐️ Colombia",COL| tv agro
 http://novared.pro:8080/motors/checkmotors131021/69288
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5MIuUdS8nwO7pkIMiHMlogiUe8R6woQM4Q&usqp=CAU"  group-title="⭐️ Colombia",COL| canal 12 Valledupar 
-https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmW-4cy-PCRbAAAA/chunklist_w2005640596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU"  group-title="⭐️ Colombia",COL| telecafe
 http://novared.pro:8080/motors/checkmotors131021/69278
 #EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU"  group-title="⭐️ Colombia",COL| cosmovision 
@@ -319,6 +317,10 @@ https://jaciptv.com:443/Zona0203/se6LZb3BRuNz/204889.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUl5HsDRyMmq38G6So4j36aJY3fnRqsM3sJQ&usqp=CAU" group-title="⭐️ Infantiles",INF|los Simpsons
 http://streamgo.vip:8008/hdsnthhrza/y3reqHBpVL3U/357029
 
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmYSHTQzgDz0UgRQ7xIF1WcolGG_uEWFNF3w&usqp=CAU" group-title="⭐️ Musica",MUS| canal 12 Valledupar 
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmW-4cy-PCRbAAAA/chunklist_w2005640596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
+https://59a564764e2b6.streamlock.net:443/vallenato/Vallenato2/chunklist_w1564300903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
 https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica",MUS| v classic tv tropical
