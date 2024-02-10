@@ -199,6 +199,8 @@ https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
 https://seo.tv.bo/tv/SEO1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpjjaC7-sYZqOmgS4FTrUbwvHvSMi_7I2iQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| movie entretaiment
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUhPR3AnXgWjI_WlnSEuoBQXD7z5-4NE-Hg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| planet family
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHiUZdmcSB9rltExRtM73_Ji73c-6XedWYtw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3SERIES
 http://evolved.host:8080/chestero57@yahoo.com/Aa8XWwBRzP/578430
 
