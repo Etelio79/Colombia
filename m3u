@@ -80,7 +80,7 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNVYHBg-UeRH6tux-HqAYcx6FVnYdWZYDiQ&usqp=CAU"  group-title="⭐️ Colombia",COL|canal ctv
 https://59a564764e2b6.streamlock.net:443/ctvbarranquilla/ctv/chunklist_w1297601315.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9Uv5j8eZQT1QPyLUR9Dx1dSHdxvYwdwhUQ&usqp=CAU"  group-title="⭐️ Colombia",COL| canal 2 
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
  http://571199371161657200.ofd0208.xyz:80/play/vi713179/nMFB8xYAHBhh/657200.ts
