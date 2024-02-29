@@ -447,7 +447,10 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/448007
 https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mgz67cRrUyWUVefPZpXVTt6U9YJOSQMLUg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| 88 stereo
 http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
-
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9oy_aCq729tFEALyZ470gbFfwehpycd8Arw&usqp=CAU" group-title="⭐️ Costa Rica",CR | canal 10
+https://acceso.radiosportstv.online:3138/live/canal10crlive.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",CR | canal 10.1
+https://acceso.radiosportstv.online:3384/live/canal101crlive.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
