@@ -368,7 +368,7 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
-http://138.59.177.34:8000/play/a03u/index.m3u8
+https://d2t46xrpai3it5.cloudfront.net:443/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/Canal6CR/Canal6CR1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
 https://d2t46xrpai3it5.cloudfront.net:443/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/Canal2CR/Canal2CR1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
@@ -451,6 +451,8 @@ http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
 https://acceso.radiosportstv.online:3138/stream/play.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",CR | canal 10.1
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU  " group-title="⭐️ Costa Rica", expert tv 33
+https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamXperTv/b7dccb67bc9db09ff24bb7bea126c692.sdp/StreamXperTv/xpertv10stream2/chunks.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb4pg3ucaHbFVWLPH3gNEWW9-3zuv-OEOcg&usqp=CAU " group-title="⭐️ Costa Rica", td max +futbol
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TdmaxFutbol/229feeb109fa4f66876d49e563932c89.sdp/TdmaxFutbol/tdmaxstream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title="⭐️ Costa Rica", td +
