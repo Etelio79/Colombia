@@ -140,9 +140,9 @@ https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
-https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239085
+http://tvbross.com:8090/comandoalmache/almache2022../431
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
-https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239088
+http://tvbross.com:8090/comandoalmache/almache2022../429
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
 http://iptvtree.net:8080/F27279/bdad41ff/3058
 #EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine Premium",CINE| HBO Family
@@ -386,7 +386,7 @@ https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w262196908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
 https://5d16127744872.streamlock.net:443/canal3/canal3/chunklist_w1934764511.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12 | Teletica 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Teletica 7  
-https://cdn02.teletica.com/StreamTeletica/StreamTeletica04122023/playlist.m3u8
+http://tvbross.com:8090/comandoalmache/almache2022../2355
 #EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1422329347.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14 | Mastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extrema tv  
@@ -456,11 +456,11 @@ https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamXperTv/b7dccb67bc9db09ff24
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb4pg3ucaHbFVWLPH3gNEWW9-3zuv-OEOcg&usqp=CAU " group-title="⭐️ Costa Rica", td max +futbol
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TdmaxFutbol/229feeb109fa4f66876d49e563932c89.sdp/TdmaxFutbol/tdmaxstream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title="⭐️ Costa Rica", td +
-https://cdn02.teletica.com:443/StreamTDMas1/Streamtdmas_1_04122023/streamtdmas1/stream1504/chunks.m3u8?nimblesessionid=10896467
+http://tvbross.com:8090/comandoalmache/almache2022../46215
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title="⭐️ Costa Rica", td + 2
-https://cdn02.teletica.com:443/StreamTDMas2/Streamtdmas_2_04122023/streamtdmas2/stream04/chunks.m3u8?nimblesessionid=10896838
+http://novared.pro:8080/motors/checkmotors131021/218729
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title="⭐️ Costa Rica", futv
-https://m6gdar5eyn93-hls-live.5centscdn.com:443/TdmaxFutbol/229feeb109fa4f66876d49e563932c89.sdp/TdmaxFutbol/tdmaxstream2/chunks.m3u8
+https://mhttp://tvbross.com:8090/comandoalmache/almache2022../31152
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7YNUjwK251s1ChyE68Buo8D3yI1qCcfRB-A&usqp=CAU" group-title="⭐️ Costa Rica", 91.5 teletica
 https://cdn.streann.com/61316705e4b0295f87dae396/637a810f8f08203103ec5867/hls/master.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiI2NWM1OTY1ZjhmMDg2ZmVkYzY4NDc3OWUiLCJleHAiOjE3MDk2ODg3MzQsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImtleSI6ImtleTEiLCJjaWQiOiI2MzdhODEwZjhmMDgyMDMxMDNlYzU4NjcifQ.jdttUzniMfINDREVw5doizsJ2aprhkoeguYWbr7buYU
 
