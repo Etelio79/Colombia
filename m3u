@@ -134,12 +134,8 @@ https://r.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
 https://r.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Desafío Super Humanos
 https://r.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Naturaleza
-https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Paisajes por Stingray
 https://r.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Animales
-https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | El Encantador de Perros
 https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Aventura
@@ -162,7 +158,7 @@ https://r.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
 https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Dog el cazarrecompensas
 https://r.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Empeños a lo bestia
+#EXTINF:-1 tvg-lo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Empeños a lo bestia
 https://r.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Mi Obsesión Favorita
 https://r.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
@@ -200,12 +196,6 @@ https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | ADN40
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Cine Estelar
-https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Cine Acción
-https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv |  Estrellas de Acción
-https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Adrenalina Freezone
 https://r.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="⭐ Pluto tv" , ptv | Cine Comedia
@@ -379,19 +369,6 @@ http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1654
 http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1655
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BLKyUFEuGg63DsBi4G3e34v2BZa-AG-spw&usqp=CAU  " group-title="✅ 24/7 VIP",ppv | cine play 07
 http://zeuspro.xyz:8080/moisesgus1/N7R9DNe8bR/1656
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k1
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/439
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k2
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/440
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k3
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/443
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k4
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/444
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k5
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/445
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPWg6VJNXCANDabEreZjP5VSJcecF96LruQ&usqp=CAU" group-title="✅ 24/7 VIP",ppv | movies k6
-http://pltvsu.info:8080/NC5mdP4nVtGx/TPE6u3Yd5Ryr/447
-
 
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0LPU_l9dw1P_WHY71wtqzB06HRsfMBtcOQ&usqp=CAU" group-title="✅ 24/7 INFANTILES",24/7 | dragon ball z
@@ -479,9 +456,11 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/93754
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia",COL| CARACOL  
 http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia",COL| CARACOL opc2
-http://novared.pro:8080/motors/checkmotors131021/69258
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEX6QUf146sY40Zc_AlzKky9
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU" group-title="⭐️ Colombia",COL| CARACOL opc3
-http://novared.pro:8080/motors/checkmotors131021/69253
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVdbk1f--CgnI9114HwfAlv
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nnA0dmlam2xeI3ivqp6b28IfEVu3I8G1Gw&usqp=CAU" group-title="⭐️ Colombia",COL| caracol internacional
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | CITY TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJSwg9FM8FFpaDwGmtWBVEOncd_PISXOl2g&usqp=CAU"  group-title="⭐️ Colombia",COL| CITY TV  
 http://galaxypro.online:8080/Jaime12P/JaimeU14/98130
 #EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P1kGNcaNTIgryPysRDikD99nKiTzPxOSzw&usqp=CAU"  group-title="⭐️ Colombia",COL| El Tiempo  
@@ -494,6 +473,8 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/90151
 http://novared.pro:8080/motors/checkmotors131021/69268
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia",COL| RCN opc3
 http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",COL| rcn mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-V2b1b3N-FhtWNFGbkB8NV0nZrfnnPpHg4A&usqp=CAU"  group-title="⭐️ Colombia",COL| Señal Colombia  
 http://galaxypro.online:8080/Jaime12P/JaimeU14/93753
 #EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcql035iivmjg2BbIjalm75izz9qyBA9wYA&usqp=CAU"  group-title="⭐️ Colombia",COL| TeleAntioquia  
@@ -626,13 +607,14 @@ http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlknFbYo_RzSpwuUeWgY1bM7NeRZUJMtgSA&usqp=CAU" group-title="⭐️ Cultura",CUL| Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lH72u2zsw3qf4V4e_XlVAFKKIYGwiwdKKA&usqp=CAU" group-title="⭐️ Cultura",CUL| Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjljofNKSWZJ8bZTJJUW0KnULTp63NvEGPA&usqp=CAU" group-title="⭐️ Cultura",CUL| E!
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU " group-title="⭐️ Cultura",CUL|  nat geo wild
+http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/30635
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
+http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="⭐️ Cultura",CUL| Animales
+https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="⭐️ Cultura",CUL| Naturaleza
+https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrTLgdRTEK_W4ZzlrLrQMJIelIPTAAV0M6w&usqp=CAU" group-title="⭐️ Telenovelas",TlN | pasiones 
