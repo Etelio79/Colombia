@@ -608,6 +608,35 @@ http://goahead.ovh:37500/695803340315/953597443501/104123
 http://goahead.ovh:37500/695803340315/953597443501/104215
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbUTUn5UP2BUl8h-3-S8v-9oGKDG2V4AwkQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| syfy
 http://goahead.ovh:37500/695803340315/953597443501/116636
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYnw3r7wjRFTESybHQxftmaggoVXiJmclAw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| planet tv
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ Cine Premium",CINE| play
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ Cine Premium",CINE| telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ Cine Premium",CINE| extrema tv acción 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/394e05d5e8744ed45ecd74d4c8cb93dd.webp" group-title="⭐️ Cine Premium",CINE| top cine
+https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| grjngo del oeste
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatgyllOGa15ZbbNK0hsNTY8sO2SdQQMusKQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cine clasico
+https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| bigtime
+https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| clover peliculas 
+http://181.78.208.254:8010/play/a09p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DLr3Ylkv2jk5B_9BTNSBUifZGRmMQSoZeA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| blue tv
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| orbit tv 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzofaKtKsTrAE8mYpDTadpD3eyw5lhrApLiA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Movies plus 
+http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
@@ -704,6 +733,8 @@ http://novared.pro:8080/motors/checkmotors131021/110290
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/53.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUhPR3AnXgWjI_WlnSEuoBQXD7z5-4NE-Hg&usqp=CAU" group-title="⭐️ Infantiles",INF| planet family
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
