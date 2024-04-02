@@ -942,6 +942,38 @@ http://restreamus.com:8080/play2022/XASFqNvz3ThB/234856
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/234857
 
 
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_tss9zLYkohpxX5U9afPqTyPJUvvTQc0EbA&usqp=CAU  " group-title="⚽ Deportes Premium ⚽", directv 
+http://102.165.51.142:25461/live/94ecDxqQqtjB/CndpahTHsp5Q/80435.m3u8?token=TxQJBRVcEggQAVwMVw8BBQdRBVNUWARUAQcCAVRQBgAGUFBXVVBTAgoTFRcSQ0cDBA5vXAIbDlpTAgFWTxNFElFEPg0CFgoQAwMMAVYVGUQRCl1QRAMETkFGWwdBCxJSAAdRVEQYEldKRVxHD1ZZOQEGRlwFXBZYDUNeD08TXw9rUgQJB1pUEAgTCRdNFVwVFUEKWxNVWE5BVFsXEVBEBBYMQ1ZXAwMQHhNaWhRZQRQcQQoXJXYWTkFTShcGX0MIW1hDXkRZA0cKExUXCERqFAAQREcDWFkHERQIQVMTHENZVxk7BVteXFdSTVwOWUZEX0EDF0obWQ0NX0YMEW5ACFAUW0ZVAQABEEw=
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrkDIhXbMtzKi789B1LSipgzKoscf1o7-pSA&usqp=CAU" group-title="⚽ Deportes Premium ⚽", directv 2
+http://flx.lat:8080/live/94ecDxqQqtjB/CndpahTHsp5Q/80440.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtcb-919z9e27GubCTR95UvnAVcN30oQO6w&usqp=CAU" group-title="⚽ Deportes Premium ⚽", directv +
+http://flx.lat:8080/live/94ecDxqQqtjB/CndpahTHsp5Q/80441.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHTBInq0en5dcv3n0LCY69miJ7-At2Aplkw&usqp=CAU" group-title="⚽ Deportes Premium ⚽", bein sports
+https://castlempire.site:443/jorgen3/zagw733/181269.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWDaumlGjbWjdPjd8XFUznm5dr4_JYIb_ww&usqp=CAU" group-title="⚽ Deportes Premium ⚽", bein sports ñ
+http://xtream.lat:8880/Alex2023/Alex2023/20896
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxCoUMlpaopEma0DdNppSBY2wtVVmLfzwMA&usqp=CAU " group-title="⚽ Deportes Premium ⚽", bein sports extra ñ
+http://xtream.lat:8880/Alex2023/Alex2023/36316
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUhHhaj7UG1zYD21i8vYhPDfdWGpwme_F4w&usqp=CAU" group-title="⚽ Deportes Premium ⚽", movistar deportes
+https://castlempire.site:443/jorgen3/zagw733/182860.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxwbbggWoPjCDxpbRzY-kWo3hIdKfw_oyiQ&usqp=CAU" group-title="⚽ Deportes Premium ⚽", movistar la liga
+https://castlempire.site:443/jorgen3/zagw733/222094.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd2byoFpjKoD6V7s-WeXfJxuFElOcp6WCgw&usqp=CAU " group-title="⚽ Deportes Premium ⚽", la liga hipermotion
+https://castlempire.site:443/jorgen3/zagw733/222710.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAdVvTPz-ZkJdVr874clqUpjR_RRF0ypDWw&usqp=CAU" group-title="⚽ Deportes Premium ⚽", dazn la liga 
+https://castlempire.site:443/jorgen3/zagw733/222692.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm578PiZg5gHeImtc5loRWl9C0HNryYz_ffg&usqp=CAU" group-title="⚽ Deportes Premium ⚽", dazn la liga 2
+https://castlempire.site:443/jorgen3/zagw733/222703.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMu0yyTyMtq2N4ybVgW-eg9-5fQodt42SQg&usqp=CAU " group-title="⚽ Deportes Premium ⚽", Movistar vamos
+https://castlempire.site:443/jorgen3/zagw733/169940.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6zdfQvac0Cj5ThT882ei5XjgrpANHwX9Ew&usqp=CAU " group-title="⚽ Deportes Premium ⚽", claro sports
+https://castlempire.site:443/jorgen3/zagw733/169912.m3u8
+ #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYWP8s-RWTi93QuHMsq9ilxeGAtNOUwOgJg&usqp=CAU" group-title="⚽ Deportes Premium ⚽", eurosports
+https://castlempire.site:443/jorgen3/zagw733/169943.m3u8
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR7G_YKDMgHB5P0bwTo9_STPoLJFx7QqN8g&usqp=CAU " group-title="⚽ Deportes Premium ⚽", eurosports 2
+https://castlempire.site:443/jorgen3/zagw733/169949.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
 http://xtream.lat:8880/Alex2023/Alex2023/349
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deporte Colombia",COL | WIN SPORT+ 
