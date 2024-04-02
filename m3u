@@ -943,7 +943,7 @@ http://restreamus.com:8080/play2022/XASFqNvz3ThB/234857
 
 
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_tss9zLYkohpxX5U9afPqTyPJUvvTQc0EbA&usqp=CAU  " group-title="⚽ Deportes Premium ⚽", directv 
-http://102.165.51.142:25461/live/94ecDxqQqtjB/CndpahTHsp5Q/80435.m3u8?token=TxQJBRVcEggQAVwMVw8BBQdRBVNUWARUAQcCAVRQBgAGUFBXVVBTAgoTFRcSQ0cDBA5vXAIbDlpTAgFWTxNFElFEPg0CFgoQAwMMAVYVGUQRCl1QRAMETkFGWwdBCxJSAAdRVEQYEldKRVxHD1ZZOQEGRlwFXBZYDUNeD08TXw9rUgQJB1pUEAgTCRdNFVwVFUEKWxNVWE5BVFsXEVBEBBYMQ1ZXAwMQHhNaWhRZQRQcQQoXJXYWTkFTShcGX0MIW1hDXkRZA0cKExUXCERqFAAQREcDWFkHERQIQVMTHENZVxk7BVteXFdSTVwOWUZEX0EDF0obWQ0NX0YMEW5ACFAUW0ZVAQABEEw=
+http://499106078833781931.ofds0401.xyz:80/play/fe107234/wvqCm6Ccyv/781931.ts
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrkDIhXbMtzKi789B1LSipgzKoscf1o7-pSA&usqp=CAU" group-title="⚽ Deportes Premium ⚽", directv 2
 http://flx.lat:8080/live/94ecDxqQqtjB/CndpahTHsp5Q/80440.m3u8
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtcb-919z9e27GubCTR95UvnAVcN30oQO6w&usqp=CAU" group-title="⚽ Deportes Premium ⚽", directv +
@@ -961,11 +961,13 @@ https://castlempire.site:443/jorgen3/zagw733/222094.m3u8
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd2byoFpjKoD6V7s-WeXfJxuFElOcp6WCgw&usqp=CAU " group-title="⚽ Deportes Premium ⚽", la liga hipermotion
 https://castlempire.site:443/jorgen3/zagw733/222710.m3u8
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkAdVvTPz-ZkJdVr874clqUpjR_RRF0ypDWw&usqp=CAU" group-title="⚽ Deportes Premium ⚽", dazn la liga 
-https://castlempire.site:443/jorgen3/zagw733/222692.m3u8
+http://499106078833320792.ofds0401.xyz:80/play/fe107234/wvqCm6Ccyv/320792.ts
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm578PiZg5gHeImtc5loRWl9C0HNryYz_ffg&usqp=CAU" group-title="⚽ Deportes Premium ⚽", dazn la liga 2
-https://castlempire.site:443/jorgen3/zagw733/222703.m3u8
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMu0yyTyMtq2N4ybVgW-eg9-5fQodt42SQg&usqp=CAU " group-title="⚽ Deportes Premium ⚽", Movistar vamos
-https://castlempire.site:443/jorgen3/zagw733/169940.m3u8
+http://499106078833320779.ofds0401.xyz:80/play/fe107234/wvqCm6Ccyv/320779.ts
+ #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1ImNPbZZ9RPwzscEplOKBdLZHBeZsg30-g&usqp=CAU " group-title="⚽ Deportes Premium ⚽", vamos
+http://499106078833321073.ofds0401.xyz:80/play/fe107234/wvqCm6Ccyv/321073.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWIarslBoJKlst0PNzoCkAmOYBrqzw1yLEw&usqp=CAU " group-title="⚽ Deportes Premium ⚽", ellas vamos
+http://499106078833466755.ofds0401.xyz:80/play/fe107234/wvqCm6Ccyv/466755.m3u8
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6zdfQvac0Cj5ThT882ei5XjgrpANHwX9Ew&usqp=CAU " group-title="⚽ Deportes Premium ⚽", claro sports
 https://castlempire.site:443/jorgen3/zagw733/169912.m3u8
  #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYWP8s-RWTi93QuHMsq9ilxeGAtNOUwOgJg&usqp=CAU" group-title="⚽ Deportes Premium ⚽", eurosports
