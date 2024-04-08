@@ -796,6 +796,9 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Musica",MUS| melody channel
 https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-iATr5SM3m7TlS1gq8RWD1-yllkENMRVA&usqp=CAU  " group-title="⭐️ Costa Rica",🇨🇷 | distrito comedia 
+https://castlempire.site:443/jorgen3/zagw733/190848.ts
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWo711LZmXezQxTySwR9mqz
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
