@@ -634,10 +634,10 @@ https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| bigtime
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| clover peliculas 
-http://181.78.208.254:8010/play/a09p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DLr3Ylkv2jk5B_9BTNSBUifZGRmMQSoZeA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| blue tv
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYokif8I17vrPHLeXRjWYRWIW74CAq-T-9BA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ Cine Premium",CINE| COCO TV 
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzofaKtKsTrAE8mYpDTadpD3eyw5lhrApLiA&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Movies plus 
@@ -743,6 +743,8 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/53.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM8S-N0wVb2vOEvK2SqWhwo-2W_zamGS-MA&usqp=CAU  " group-title="⭐️ Infantiles",INF| moni tv
 http://190.102.242.130:25461/multicontenido/1234/1
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06sThWeAgO5O4PMW1luTwE4napK2bptfEjw&usqp=CAU " #EXTINF:-1 tvg-logo="  " group-title="⭐️ Infantiles",INF| ciudad magica
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
@@ -753,12 +755,8 @@ https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="⭐️ Musica",MUS| trace urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2f4397219df0a5c564629999b3b313f4.webp" group-title="⭐️ Musica",MUS| sol musica
-https://stream.ads.ottera.tv/cl/240203cmv878asst6g0ltqtb50/1280x720_3071200_0_f.m3u8?i=475_5760
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9424bd94fdf0c4154dff529f4fdfa9b4.webp" group-title="⭐️ Musica",MUS| puro romance
-https://stream.ads.ottera.tv/cl/240203cmv838jldlegkrgrljrg/1280x720_1400000_1_f.m3u8?i=475_1082
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp"  group-title="⭐️ Musica",MUS| si tv
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrJWh5mqMrwPCu0M4WTTe0gYKBDdSWLvXBQ&usqp=CAU"  group-title="⭐️ Musica",MUS| tu pop favorito 
@@ -785,8 +783,6 @@ http://novared.pro:8080/motors/checkmotors131021/218737
 https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjXozwZHZq3Nzi00ymrG826rH3i9Jn4iVYlg&usqp=CAU" group-title="⭐️ Musica",MUS| la despechada tv
-https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3TYt9XLrYt0rzB6NFa4Tol1bvFZoyUX2fw&usqp=CAU" group-title="⭐️ Musica",MUS| tropical tv
 https://rpn3.bozztv.com/ssh101/ssh101/estvco/chunks.m3u8?nimblesessionid=71900915
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQspCXnw20ViJ2Ghf0oJKqrByKhD-cjo0r0Q&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
@@ -797,10 +793,6 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJAjqTdOWjFMG9CPs7w_HKkmhB2vx2_5rTg&usqp=CAU"  group-title="⭐️ Musica",MUS| tele musica
-https://canal.mediaserver.com.co/live/telemusica.m3u8
-#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"  group-title="⭐️ Musica",MUS| melody channel
-https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-iATr5SM3m7TlS1gq8RWD1-yllkENMRVA&usqp=CAU  " group-title="⭐️ Costa Rica",🇨🇷 | distrito comedia 
