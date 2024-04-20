@@ -30,6 +30,8 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", nativa tv
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ EXCLUSIVO VIP ⭐", FMH Movies
 http://tvlatino.club:2082/pedrovip6mes/3k67n7QfhqxP/345523
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cinerama
