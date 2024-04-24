@@ -238,10 +238,6 @@ http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 http://xtream.lat:8880/Alex2023/Alex2023/140022
 #EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXHhCMQDR934SepH4wLHqAb
-#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_erVs6qzPR4WdBjIYsgIOi7UvzQrG7oZhg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3cine
-http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1CX_mMmYFbee0tRrDU-yrC0Gqgl2dAAsOg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| A3SERIES
-http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
 #EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 #EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
@@ -527,10 +523,6 @@ http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkNQLycLM4yIB05WC03Y4hhpDubrlJlH2fA&usqp=CAU " group-title=" ⚽ Deporte VIP", ufc network 
 https://castlempire.site:443/jorgen3/zagw733/255599.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBp3OPRpJunzsuoAKVyQp_1wofDENFzMim2g&usqp=CAU " group-title=" ⚽ Deporte VIP", willow cricket network 
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsrXuleANWRrvg8rlWszCz9yfQBXV_GYy4w&usqp=CAU " group-title=" ⚽ Deporte VIP", nhl network
-http://xtream.lat:8880/Alex2023/Alex2023/1433
 
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
@@ -540,36 +532,36 @@ http://xtream.lat:8880/Alex2023/Alex2023/268
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
-http://novared.pro:8080/motors/checkmotors131021/110232
+http://548510881794228384.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228384.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s1BLWLYnoUikuNzPhbykMsM3PUsvIQyFLQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 2
-http://iptvtree.net:8080/F27279/bdad41ff/64712
+http://548510881794228388.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228388.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0Q5HnlJ3eFkY1KKrgon15sJooJ_0CThmqg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 3
-http://iptvtree.net:8080/F27279/bdad41ff/269912
+http://548510881794228395.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r0GoAXkFdpOepIYHWjyZ3NZtL2tj0HZQMQ&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 4
-http://iptvtree.net:8080/F27279/bdad41ff/269911
+http://548510881794228397.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHZQBss3Wx6ilhokjaE_UuNhLotB8PsgV3Q&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR F1 
-http://iptvtree.net:8080/F27279/bdad41ff/1672
+http://548510881794165257.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/165257.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzUbC3TwMglW0YBja9vOPLa9HhrJo4pBTAw&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS  1 (México)
-http://xtream.lat:8880/Alex2023/Alex2023/65656
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/937
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhooTjS95cU_5z6UWVIJh-0DBHy-aA7RIoQ&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 2 (México)
-http://xtream.lat:8880/Alex2023/Alex2023/65657
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/929
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCosoBzW18TLTPkvgRBWThJdi-iVUZamVi2Q&usqp=CAU" group-title="⚽ Deportes Mexico",  FOX SPORTS 3 (México)
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/930
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRORK9Plo3gIbcz0C4b5h4FeCJoSUSRk6XQ&usqp=CAU" group-title="⚽ Deportes Mexico", fox sport premiun (mexico)
-http://xtream.lat:8880/Alex2023/Alex2023/65670
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/375377
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_C-KVwUa_O4w_6mmkqjI7H6HaLYNWVT1Rcw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 1 (México)
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/26526
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 2 (mexico)
-https://castlempire.site:443/jorgen3/zagw733/170839.m3u8
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/107157
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes Mexico",  ESPN SPORT 3 (México)
-http://iptvtree.net:8080/F27279/bdad41ff/38603
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/65828
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU" group-title="⚽ Deportes Mexico",  espn 4 (México)
-http://190.108.85.20:9999/play/a00x
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/24636
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title="⚽ Deportes Mexico",TVC SPORTS 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVJxbfJsnVN-7GBL__ax2VZ
 #EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png"  group-title="⚽ Deportes Mexico",  AFIZZIONADOS 
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/27246
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN
 http://xtream.lat:8880/Alex2023/Alex2023/291
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN usa
@@ -585,7 +577,7 @@ http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVGflO7xH
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina",  directv sport 2 (argentina)
 http://xtream.lat:8880/Alex2023/Alex2023/350
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQwHeLnMs3YHa5BgBywGnhhZhhK5G1uKPR3w&usqp=CAU" group-title="⚽ Deportes argentina",  espn (argentina)
-https://castlempire.site:443/jorgen3/zagw733/184449.ts
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/443339
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes argentina",  espn 2 (argentina)
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXSIXz87zdn8OhqAKaSxN1i
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes argentina",  espn 3 (argentina)
@@ -593,15 +585,15 @@ https://castlempire.site:443/jorgen3/zagw733/173860.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina",  espn premium (argentina)
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUGDPLp851BwDXOm79GvIn2
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport (argentina)
-https://castlempire.site:443/jorgen3/zagw733/184455.ts
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/713754
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK6YFYatR_bqQWe0x62EewJ2SQsoDYWySbA&usqp=CAU" group-title="⚽ Deportes argentina",  fox sport 2 (argentina)
-https://castlempire.site:443/jorgen3/zagw733/173862.ts
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/660364
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU" group-title="⚽ Deportes argentina", fox 3 (argentina)
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUirMU7iLPEny0F0coaBM_1
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/660366
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina", tyc SPORTS (argentina)
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEW68gupbuBbdQ1y-yMhDQuM
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/713756
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes argentina",   TNT Sports (argentina)
-https://castlempire.site:443/jorgen3/zagw733/184466.ts
+http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/451029
 
 
 
