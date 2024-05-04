@@ -101,66 +101,98 @@ https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
 https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNi2WsZ8oGYTUzbRiKJBhCmARfXi3Yws8iQ&usqp=CAU"  group-title="⭐️ Colombia",COL| Cablenoticias  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/374625
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDMDwK9-rq6k4nilBAvA5XbNJKhwmbk5pTA&usqp=CAU"  group-title="⭐️ Colombia",COL| Canal Capital  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/374895
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdbU-eXv75HfX_bSWL3tx7X4ssKExrZi1SA&usqp=CAU"  group-title="⭐️ Colombia",COL| Canal Uno  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/93754
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia",COL| CARACOL  
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia", CARACOL  
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/148808
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia",COL| CARACOL opc2
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia", CARACOL opc2
 http://xtream.lat:8880/Alex2023/Alex2023/254
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU" group-title="⭐️ Colombia",COL| CARACOL opc3
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU" group-title="⭐️ Colombia", CARACOL opc3
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/12
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nnA0dmlam2xeI3ivqp6b28IfEVu3I8G1Gw&usqp=CAU" group-title="⭐️ Colombia",COL| caracol internacional
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nnA0dmlam2xeI3ivqp6b28IfEVu3I8G1Gw&usqp=CAU" group-title="⭐️ Colombia", caracol internacional
 http://galaxypro.online:8080/GingerAndrade1311/0984789890GA/93747
-#EXTINF:-1 tvg-id="" tvg-name="CO | CITY TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJSwg9FM8FFpaDwGmtWBVEOncd_PISXOl2g&usqp=CAU"  group-title="⭐️ Colombia",COL| CITY TV  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/98130
-#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P1kGNcaNTIgryPysRDikD99nKiTzPxOSzw&usqp=CAU"  group-title="⭐️ Colombia",COL| El Tiempo  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/93773
-#EXTINF:-1 tvg-id="" tvg-name="CO | NTN24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl3rRMMT-p8wPN4AnoIdxm3LBPvwqBUa4BA&usqp=CAU"  group-title="⭐️ Colombia",COL| NTN24  
-http://galaxypro.online:8080/Jaime12P/JaimeU14/93770
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia",COL| RCN
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia", RCN
 http://galaxypro.online:8080/Jaime12P/JaimeU14/90151
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia",COL| RCN opc2
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia", RCN opc2
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78694
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia",COL| RCN opc3
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU"  group-title="⭐️ Colombia", RCN opc3
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/148371
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",COL| rcn mas
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia", rcn mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-V2b1b3N-FhtWNFGbkB8NV0nZrfnnPpHg4A&usqp=CAU"  group-title="⭐️ Colombia",COL| Señal Colombia  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNi2WsZ8oGYTUzbRiKJBhCmARfXi3Yws8iQ&usqp=CAU"  group-title="⭐️ Colombia", Cablenoticias  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/374625
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDMDwK9-rq6k4nilBAvA5XbNJKhwmbk5pTA&usqp=CAU"  group-title="⭐️ Colombia", Canal Capital  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/374895
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdbU-eXv75HfX_bSWL3tx7X4ssKExrZi1SA&usqp=CAU"  group-title="⭐️ Colombia", Canal Uno  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/93754
+#EXTINF:-1 tvg-id="" tvg-name="CO | NTN24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl3rRMMT-p8wPN4AnoIdxm3LBPvwqBUa4BA&usqp=CAU"  group-title="⭐️ Colombia", NTN24  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/93770
+#EXTINF:-1 tvg-id="" tvg-name="CO | CITY TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJSwg9FM8FFpaDwGmtWBVEOncd_PISXOl2g&usqp=CAU"  group-title="⭐️ Colombia", CITY TV  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/98130
+#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P1kGNcaNTIgryPysRDikD99nKiTzPxOSzw&usqp=CAU"  group-title="⭐️ Colombia", El Tiempo  
+http://galaxypro.online:8080/Jaime12P/JaimeU14/93773
+#EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-V2b1b3N-FhtWNFGbkB8NV0nZrfnnPpHg4A&usqp=CAU"  group-title="⭐️ Colombia", Señal Colombia  
 http://galaxypro.online:8080/Jaime12P/JaimeU14/93753
-#EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcql035iivmjg2BbIjalm75izz9qyBA9wYA&usqp=CAU"  group-title="⭐️ Colombia",COL| TeleAntioquia  
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcql035iivmjg2BbIjalm75izz9qyBA9wYA&usqp=CAU"  group-title="⭐️ Colombia", TeleAntioquia  
 http://galaxypro.online:8080/Jaime12P/JaimeU14/93779
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telecafé" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU"  group-title="⭐️ Colombia",COL| cali tv
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telecafé" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLenEpqBsZoYkOFBD-XdENBTsz9CEwWrjqA&usqp=CAU"  group-title="⭐️ Colombia", cali tv
 https://castlempire.site:443/jorgen3/zagw733/170168.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | TeleCaribe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7L6-Fbo0rr-ii3EjzyAH4MGxfl36607zPmA&usqp=CAU"  group-title="⭐️ Colombia",COL| TeleCaribe  
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleCaribe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7L6-Fbo0rr-ii3EjzyAH4MGxfl36607zPmA&usqp=CAU"  group-title="⭐️ Colombia", TeleCaribe  
 http://galaxypro.online:8080/Jaime12P/JaimeU14/374766
-#EXTINF:-1 xui-id="713005" tvg-id="" tvg-name="CO| Telemedellin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikt_JZ9Cz7W780Y-cDP1C-pCtJrkmtRiM7w&usqp=CAU"  group-title="⭐️ Colombia",COL| Telemedellin
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDMOU-W68vwa7L7jmeAVzpZ-MiqJMQztLlw&usqp=CAU"  group-title="⭐️ Colombia",COL| Tele-pacifico   
+#EXTINF:-1 xui-id="713005" tvg-id="" tvg-name="CO| Telemedellin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTikt_JZ9Cz7W780Y-cDP1C-pCtJrkmtRiM7w&usqp=CAU"  group-title="⭐️ Colombia", Telemedellin
+http://158.220.87.177:2095/azhaitiinterc349/tUCP4JyX4H/1634
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDMOU-W68vwa7L7jmeAVzpZ-MiqJMQztLlw&usqp=CAU"  group-title="⭐️ Colombia", Tele-pacifico   
 http://galaxypro.online:8080/Jaime12P/JaimeU14/374764
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LOg_xTeFBa1Rf0F8QZzvy-IZ4dFebDF_Ww&usqp=CAU"  group-title="⭐️ Colombia",COL| mas tv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LOg_xTeFBa1Rf0F8QZzvy-IZ4dFebDF_Ww&usqp=CAU"  group-title="⭐️ Colombia", mas tv
 http://galaxypro.online:8080/Jaime12P/JaimeU14/375747
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU"  group-title="⭐️ Colombia",COL| tv agro
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU"  group-title="⭐️ Colombia", tv agro
 http://novared.pro:8080/motors/checkmotors131021/69288
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-cq9zznF3h8STHF-ad3A28wmWXgbHtYldA&usqp=CAU " group-title="⭐️ Colombia",COL | canal tro
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVD1iwpKE0RYdEauSelPTeS
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU " group-title="⭐️ Colombia",COL | tele café
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXdhy95z5O8w81USiWj7qEs
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU"  group-title="⭐️ Colombia",COL| cosmovision 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU"  group-title="⭐️ Colombia", cosmovision 
 https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Colombia",COL| canal cnc 
-http://pastocnc1.ddns.net:80/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAJsOsGpJDa7Ry0QDRr14QYLNdgLdzCSpIA&usqp=CAU"  group-title="⭐️ Colombia",COL| Eureka 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAJsOsGpJDa7Ry0QDRr14QYLNdgLdzCSpIA&usqp=CAU"  group-title="⭐️ Colombia", Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia",COL| canal zoom
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia", canal zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNVYHBg-UeRH6tux-HqAYcx6FVnYdWZYDiQ&usqp=CAU"  group-title="⭐️ Colombia",COL|canal ctv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNVYHBg-UeRH6tux-HqAYcx6FVnYdWZYDiQ&usqp=CAU"  group-title="⭐️ Colombia",canal ctv
 https://59a564764e2b6.streamlock.net:443/ctvbarranquilla/ctv/chunklist_w1297601315.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9Uv5j8eZQT1QPyLUR9Dx1dSHdxvYwdwhUQ&usqp=CAU"  group-title="⭐️ Colombia",COL| canal 2 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9Uv5j8eZQT1QPyLUR9Dx1dSHdxvYwdwhUQ&usqp=CAU"  group-title="⭐️ Colombia", canal 2 
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhQLNVdOEMu2E4oyMrpRrVmS4T0k1WC_Tg&usqp=CAU"  group-title="⭐️ Colombia", cnc cali
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpkF1vVMrlt13SWpj58bxeIMwIw0sMSmin3VBSqgSdydIYh4t3h5U4FPjX2syU5gj3atZaUDg1pFHCLpicdvGf5NEjV7j2uIVQd61NuT2dSTt9kb0AUmWDC0-GBXv7dMargSvWqrSRf8BnvngmEIMSHW9q_tbslzruZ2419tXaXwKyFzLQz1UfOP-huiqzJg_nn7UvS2j0Stv-UqZqTGmFSliyQH8jIDxeCE2uttEb08kmcxWMVGvCVjaBAk9PxlOxVF5M-7woUd4JSxA0UhUPmMVIM0A3n4Nk4lEuAzbpBCoS_BVaz8-Qlb2XZFggfSuWadu7151hWIEU4zG91IVI5pvcfGhZGm_70HAdoMOd8oLIEt59KYUJsLbprnck8m3WS0ZE39kaZ1Fzu9kq8J42vQ-qEMdd58mIlZhyAYkeT82-SvZZ7BKhBTau6QPxeOBQaWwjoDrFlzpffOdov7M_GH1osNBfomyV5s7WgelsM11lhpYxmcYji5x1j5WcbLAaiErzWWvMndwq_EpD4MOSs8CZqm0HCEfLoCYmDzpH_2GDQifzbMRQDOfK5eY_gtycYTF4tpKA0YID6Egxfm1Uik0mm7zUl1da1RcjNldvKr03gdzaAiMu4Pv84gEMQNrOLSg-k3QyurDvjAMno-xNqZFGlFpTc-uEHYVoQyoPR2xJyAV7YAmRnWPiIuZHpwWOsByDqGfyfzG74_QWvI4p-K9LGKst-28sPHxkL-v-YiCdzf9mqjdXnTPEHnIQeIP-K53SRDkoosKCcRqFm5MjWBnxld6un8EnqCwHzE01fIW0Jn7fxylNyzPSf9fow0JpWxM6P3DBU73Td7zU6vCZqHe4o-z115YvGLVMKGb76iTsxnEcaq33opVXEaDByx9R9LPOVtB3d5HSABKgl1cy1lYXN0LTEw4Ac.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xvPr9Pzu-jHrNume9Cw1VMGwCVZSsM5QrQ&usqp=CAU"  group-title="⭐️ Colombia", cnc monteria
+https://edge.teveo.com.co:443/live/AeAAAgAfAANlA1IAyADIUDAAAAGAAAAAAmY1Y8G-PCRbAAAA/chunklist_w1317100723.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Colombia", cnc pasto
+https://hvtraficonew.ddns.net:443/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlsrgxVrBtZBNCMxYWARwlAM4Q4uDDPgPHTQ&usqp=CAU"  group-title="⭐️ Colombia", cnc tulua
+https://play.amelbasoluciones.co:3611/live/cnctulualive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVC5a7IsIKpFm57D_Dym_Pr7Eb45yQo7Cfcw&usqp=CAU"  group-title="⭐️ Colombia", cnc Valledupar 
+http://edge.teveo.com.co:80/live/AeAAAgAdAANjA1IAyADIUCAAAAAAAAAAAmY1ZP--PCRbAAAA/chunklist_w228779013.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfomS0j03rImBJI1sZaA4CdyWDk5VPaNHhA&usqp=CAU"  group-title="⭐️ Colombia", acuario tv
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cs0F62LbZpmCFWYXqriS1ykY8lkS5UZVH8_g9Res1iE2MoulhH_alySq2mAQHj31LVIY5tT3oSwtPpFFB70xQQ3Sn0xX_GkIROO7Uv46xXHI1n6AQui1ZAqXCBNtXK5c3IN1JZfOri0V6uQn87in3ELn01_wcqVJHan37X-NKwmbJlk0IOSCjRT9IkW7fvEFwLNGkp9xj6IHHqn1fp63ANaihgxa8f6smcHkor87wDlv9tFcYkNCjaINL7zQrhNU4VggzNFwbAsmS0TpfifXuqgVxkh7EryyHAb3UeuSSoHQIMk2lLydLkYKdB9DDtgezSaGZJIvkVMgz0AWvaSd-X9D6C7QLPHNjyoKxZKwf4zlxS-wxJiar7-yPbopF0UifR87k_Xz5WTTTCBB3Fy-AjbK7U_SsmVnJwdQ39T_BuZK80-r_VA4wcBfvzxQOsHUzS4rrY0htlGkVQyIOcAdkaB4LdXIx8pA91FKcZ0wvAJbWANvikYwjZX2lRnr2pCfnhLLj39P_aa9JmogWlLH0TWuFH8Bao7P-q7kqPUi61FyM9B-mrcLIWFeaa01BV9dDVu3gaU4eQ4e2A2YZZUJ7rwHStouFDAqije0WZt1iJQjsjrQ0ULGjoqLR41ivz_wzvrApZxvLJr5BKhsTaOvr9Tg43rxxpGiXPf-FHY7oLhhhf-ojEU5GrTzeo3XApC6j2aFoG_bxZyM9NtY89dFh2LPSlwVKV9fW0MWbvxx2pkzMpGbYvVWx78RJfOYHegR_PwCje6u_-u3HtzT69j1bpTxtzpcRhm_67iNn58PrX7IM8NfHqHp4_pkgsF94XY-VnTP93yCwa9oNwPjGErwBImzDUmL6z1wCC2KGS79fvmfTIRHIQbB0UZ63_cyIffprjrurN1Al5fJ-sAYRlW6I5_x0PfiHy3nQCvaPY_VikkqEoEYEtacGoe-AHnIrZujGgy9eWvi4UZgshQhDAAgASoJdXMtZWFzdC0xMOAH.m3u8
+#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBCH8rZ9hNJON-_GVRDQhmpt5BsuKdY0WJA&usqp=CAU "  group-title="⭐️ Colombia", amaga tv
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CscFxICOyLXPlE-Tl8GXsnFNG24htg_C4N9rIPuTwFP4hq1pVNXSPygn52OFWFgkerc-LhsDgh23NC8czLGoPhGeh9IxgQjcQ3HkTOnGiWnxeTZ92e0MaRtgsNznnWlMRjFeL9PHpH7VqqFsPk1rGycfFEok6TFt30l71mno2GkFcq78rIQJOOFHEbIKN52HlzrFvuc0DMeO3qkE-LZLT7cjYa0Q9fXss74mp7IL5e66phUvJ3188THCbM1uT4uuzV5t5i5-adMRC3SUxtxWeaPFYIQPmUlkS_9sUp9P0ELUcPyyPTz3GzJdcSDeV_enMvVczaL_hCWi9p6EXOTqaWPZQgeO803cWgCCB04lGSV6EZ5NHSITaor8WQlGJwBRdZUSJFl61GVDYdsSc5kiUCAZDQFv6-z3pto_34hSXzVzr5maPN_pMulZ8OO_m2NEipIprBLlmhlp0n5QDbHBucFX6WhFE0R0nhiyQPowJFTKBv7ybbU-Jx3U6SDEDRpojIW6vLQEBsXYIARJgTS1J-V2eSE6M45WdszgBTWFXp-OLMH8KZhWKR_NF87Myll4hsS_HDBWalJl_-PurFx-gU8V9A48_WvL_BjxLOPia23OMV2RbobX4qnhIF63SXgMVvUKgQJOXmSfSv6h3pXVTHXvTYwO6PoJ-chwYlQNy05GSbLtE0SwcEB7v4M0_C6PByd8m5Fk4OEjqNvmqZ_6SZZqszBIlprgeb9ndumllwb-mRtKSIWPSSQ93lUVGD8MLRvUzLcinNIdZfyccnCBFiobpSJ6mui70T0fK6SbYeoaMm-H5S0Y5uWPIv655_BhFvU53MqTjFlN_WbZRlGAT8_CK6iopN_henGP3e1d0NBKpYRZRarIJSelegvq-pcjinW59e1OEiiXrThN_sLS28ZlaZEGBLH4mFJhyT1LI5DGc_P7jSxI0l5eGgySUc_FcayTQebjIPggASoJdXMtZWFzdC0xMOAH.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLGTji0fEdF6J-CJ1Xm9w6P0hQPa4u9LaNg&usqp=CAU"  group-title="⭐️ Colombia", atn tv
+https://59ef525c24caa.streamlock.net:443/atntelevision/atntelevision/chunklist_w1983135475.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gVighuiVCSYFt-P34XoCU-CHx8KoEd75Ig&usqp=CAU"  group-title="⭐️ Colombia", atv Colombia 
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_ZDq-WGXm0OWx8uqqbafV9LO4yJtVSMfug&usqp=CAU"  group-title="⭐️ Colombia", cable sur
+https://tvlatina.live:1936/8012/8012/chunklist_w2103233655.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfmTqj07Dv53uAwVaT4XYJYsxKJT4KWexg13oCPONqw&s"  group-title="⭐️ Colombia", canal 12 Valledupar 
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmY1adS-PCRbAAAA/playlist.m3u8
+#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCYqluU43VMpcqHeiNnuz_gn1lWxS3RXSPw&usqp=CAU "  group-title="⭐️ Colombia", canal 2 alpavision 
+https://stmv1.voxtvhd.com.br:443/alpavision/alpavision/chunklist_w283104892.m3u8
+#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_8iuDfL-0_pV0o7YnsP0957bROWeDnd_Zg&usqp=CAU "  group-title="⭐️ Colombia", canal 55 telemorisco
+https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=198z671i
+#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkpCOtd2sH8XSjkzkZ1Y-2NOlYfEl5ixFcGvCEcmk-w&s "  group-title="⭐️ Colombia", canal 8 tv
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0zqQ7R_diro7wLEsDUVlU2xveqPMyskaOg&usqp=CAU "  group-title="⭐️ Colombia", canal 12 Sincelejo 
+https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/244751203.secure.m3u8?dw=80&hdnea=st=1714777215~exp=1714779015~acl=/i/27724665_10924899_lsiz3f1vx0wptr55r7s_1@88960/*~hmac=cb496d4e28c0b9b0ab6efd28816fc0eb8a28b8ff1af4041d103a40eb0f73f6d2&token=66356dab_43cfaedf02edcda4db2a4f0639bf616fa1f5933e
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStl6W0CagFMK0ZZ9Jo8yAFyJXQalKRBTtPbg&usqp=CAU  "  group-title="⭐️ Colombia", teleislas
+https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w905697279.m3u8
+#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Colombia", vive tv
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
