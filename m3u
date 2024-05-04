@@ -11,14 +11,18 @@ http://190.102.242.130:25461/multicontenido/1234/31
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXg5JM3hysWf_DwWf-Tm0LJF_Ab3hUXj95A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", planetatv family
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_4VvmDhNVX0Z0QC885BYEZzrwW5gXiUADg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine peliculas 
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThux6tHkMNMAJfV9k3GjWcJX5Uq77CiM9yZA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ EXCLUSIVO VIP ⭐", FMH Movies
+http://tvlatino.club:2082/pedrovip6mes/3k67n7QfhqxP/345523
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  play
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", nativa tv
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ EXCLUSIVO VIP ⭐", FMH Movies
-http://tvlatino.club:2082/pedrovip6mes/3k67n7QfhqxP/345523
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  telemax
@@ -39,16 +43,14 @@ http://177.234.230.226:8010/play/a00a/index.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflu9n4kR-rsIgJseiVWiyLx7lrad31leb4Q&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", acs tv
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://beta.neotv.cl/assets/img/channels/neotv-digital.png" group-title="⭐️ EXCLUSIVO VIP ⭐", neo tv
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOE4Twh0z3MsblZI0LsHZTDZMV3VVBE_MAQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", neo tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_4VvmDhNVX0Z0QC885BYEZzrwW5gXiUADg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine peliculas 
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOpwx1swZ5ApceGHpAcl2R4ZWGBz3svoxVw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://beta.neotv.cl/assets/img/channels/net-tv.png " group-title="⭐️ EXCLUSIVO VIP ⭐", net tv
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLlb98KnsM43GZn9F0rAxQrh2aIc99vslMOKTqJ5GXg&s " group-title="⭐️ EXCLUSIVO VIP ⭐", net tv
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCVFMAgoFIbcd8OlUryT7tQMwq7n53NJmJw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", mega cine tv
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkIQQX9b7HpTcRjgWf3xK7FkjOBRWsOPC7w&usqp=CAU" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -161,14 +163,10 @@ https://59a564764e2b6.streamlock.net:443/ctvbarranquilla/ctv/chunklist_w12976013
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhQLNVdOEMu2E4oyMrpRrVmS4T0k1WC_Tg&usqp=CAU"  group-title="⭐️ Colombia", cnc cali
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpkF1vVMrlt13SWpj58bxeIMwIw0sMSmin3VBSqgSdydIYh4t3h5U4FPjX2syU5gj3atZaUDg1pFHCLpicdvGf5NEjV7j2uIVQd61NuT2dSTt9kb0AUmWDC0-GBXv7dMargSvWqrSRf8BnvngmEIMSHW9q_tbslzruZ2419tXaXwKyFzLQz1UfOP-huiqzJg_nn7UvS2j0Stv-UqZqTGmFSliyQH8jIDxeCE2uttEb08kmcxWMVGvCVjaBAk9PxlOxVF5M-7woUd4JSxA0UhUPmMVIM0A3n4Nk4lEuAzbpBCoS_BVaz8-Qlb2XZFggfSuWadu7151hWIEU4zG91IVI5pvcfGhZGm_70HAdoMOd8oLIEt59KYUJsLbprnck8m3WS0ZE39kaZ1Fzu9kq8J42vQ-qEMdd58mIlZhyAYkeT82-SvZZ7BKhBTau6QPxeOBQaWwjoDrFlzpffOdov7M_GH1osNBfomyV5s7WgelsM11lhpYxmcYji5x1j5WcbLAaiErzWWvMndwq_EpD4MOSs8CZqm0HCEfLoCYmDzpH_2GDQifzbMRQDOfK5eY_gtycYTF4tpKA0YID6Egxfm1Uik0mm7zUl1da1RcjNldvKr03gdzaAiMu4Pv84gEMQNrOLSg-k3QyurDvjAMno-xNqZFGlFpTc-uEHYVoQyoPR2xJyAV7YAmRnWPiIuZHpwWOsByDqGfyfzG74_QWvI4p-K9LGKst-28sPHxkL-v-YiCdzf9mqjdXnTPEHnIQeIP-K53SRDkoosKCcRqFm5MjWBnxld6un8EnqCwHzE01fIW0Jn7fxylNyzPSf9fow0JpWxM6P3DBU73Td7zU6vCZqHe4o-z115YvGLVMKGb76iTsxnEcaq33opVXEaDByx9R9LPOVtB3d5HSABKgl1cy1lYXN0LTEw4Ac.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xvPr9Pzu-jHrNume9Cw1VMGwCVZSsM5QrQ&usqp=CAU"  group-title="⭐️ Colombia", cnc monteria
-https://edge.teveo.com.co:443/live/AeAAAgAfAANlA1IAyADIUDAAAAGAAAAAAmY1Y8G-PCRbAAAA/chunklist_w1317100723.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Colombia", cnc pasto
 https://hvtraficonew.ddns.net:443/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlsrgxVrBtZBNCMxYWARwlAM4Q4uDDPgPHTQ&usqp=CAU"  group-title="⭐️ Colombia", cnc tulua
 https://play.amelbasoluciones.co:3611/live/cnctulualive.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVC5a7IsIKpFm57D_Dym_Pr7Eb45yQo7Cfcw&usqp=CAU"  group-title="⭐️ Colombia", cnc Valledupar 
-http://edge.teveo.com.co:80/live/AeAAAgAdAANjA1IAyADIUCAAAAAAAAAAAmY1ZP--PCRbAAAA/chunklist_w228779013.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfomS0j03rImBJI1sZaA4CdyWDk5VPaNHhA&usqp=CAU"  group-title="⭐️ Colombia", acuario tv
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cs0F62LbZpmCFWYXqriS1ykY8lkS5UZVH8_g9Res1iE2MoulhH_alySq2mAQHj31LVIY5tT3oSwtPpFFB70xQQ3Sn0xX_GkIROO7Uv46xXHI1n6AQui1ZAqXCBNtXK5c3IN1JZfOri0V6uQn87in3ELn01_wcqVJHan37X-NKwmbJlk0IOSCjRT9IkW7fvEFwLNGkp9xj6IHHqn1fp63ANaihgxa8f6smcHkor87wDlv9tFcYkNCjaINL7zQrhNU4VggzNFwbAsmS0TpfifXuqgVxkh7EryyHAb3UeuSSoHQIMk2lLydLkYKdB9DDtgezSaGZJIvkVMgz0AWvaSd-X9D6C7QLPHNjyoKxZKwf4zlxS-wxJiar7-yPbopF0UifR87k_Xz5WTTTCBB3Fy-AjbK7U_SsmVnJwdQ39T_BuZK80-r_VA4wcBfvzxQOsHUzS4rrY0htlGkVQyIOcAdkaB4LdXIx8pA91FKcZ0wvAJbWANvikYwjZX2lRnr2pCfnhLLj39P_aa9JmogWlLH0TWuFH8Bao7P-q7kqPUi61FyM9B-mrcLIWFeaa01BV9dDVu3gaU4eQ4e2A2YZZUJ7rwHStouFDAqije0WZt1iJQjsjrQ0ULGjoqLR41ivz_wzvrApZxvLJr5BKhsTaOvr9Tg43rxxpGiXPf-FHY7oLhhhf-ojEU5GrTzeo3XApC6j2aFoG_bxZyM9NtY89dFh2LPSlwVKV9fW0MWbvxx2pkzMpGbYvVWx78RJfOYHegR_PwCje6u_-u3HtzT69j1bpTxtzpcRhm_67iNn58PrX7IM8NfHqHp4_pkgsF94XY-VnTP93yCwa9oNwPjGErwBImzDUmL6z1wCC2KGS79fvmfTIRHIQbB0UZ63_cyIffprjrurN1Al5fJ-sAYRlW6I5_x0PfiHy3nQCvaPY_VikkqEoEYEtacGoe-AHnIrZujGgy9eWvi4UZgshQhDAAgASoJdXMtZWFzdC0xMOAH.m3u8
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTBCH8rZ9hNJON-_GVRDQhmpt5BsuKdY0WJA&usqp=CAU "  group-title="⭐️ Colombia", amaga tv
@@ -179,8 +177,6 @@ https://59ef525c24caa.streamlock.net:443/atntelevision/atntelevision/chunklist_w
 https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG_ZDq-WGXm0OWx8uqqbafV9LO4yJtVSMfug&usqp=CAU"  group-title="⭐️ Colombia", cable sur
 https://tvlatina.live:1936/8012/8012/chunklist_w2103233655.m3u8
-#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfmTqj07Dv53uAwVaT4XYJYsxKJT4KWexg13oCPONqw&s"  group-title="⭐️ Colombia", canal 12 Valledupar 
-https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmY1adS-PCRbAAAA/playlist.m3u8
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCYqluU43VMpcqHeiNnuz_gn1lWxS3RXSPw&usqp=CAU "  group-title="⭐️ Colombia", canal 2 alpavision 
 https://stmv1.voxtvhd.com.br:443/alpavision/alpavision/chunklist_w283104892.m3u8
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_8iuDfL-0_pV0o7YnsP0957bROWeDnd_Zg&usqp=CAU "  group-title="⭐️ Colombia", canal 55 telemorisco
@@ -308,6 +304,8 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="⭐️ Cultura",CUL| Naturaleza
 https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgp_AtqNsyY9uFbSgaW8gu6LUHRJiM3Fqfxw&usqp=CAU" group-title="⭐️ Cultura",CUL| OXÍGENO TV
+https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrTLgdRTEK_W4ZzlrLrQMJIelIPTAAV0M6w&usqp=CAU" group-title="⭐️ Telenovelas",TlN | pasiones 
@@ -386,10 +384,6 @@ https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="⭐️ Musica",MUS| trace urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp"  group-title="⭐️ Musica",MUS| si tv
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrJWh5mqMrwPCu0M4WTTe0gYKBDdSWLvXBQ&usqp=CAU"  group-title="⭐️ Musica",MUS| tu pop favorito 
 https://stream.ads.ottera.tv/cl/240203cmv7tb44f13ccmt513kg/1280x720_2300000_0_f.m3u8?i=475_1086
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top tv
@@ -400,8 +394,6 @@ https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_outpu
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDJWvs4ZdfN1nKmnKuFU9eMrnqnGEkMz6kQ&usqp=CAU" group-title="⭐️ Musica",MUS| amordiscos 
-https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkGpw2noPVnyKNnXpLUekrcwBGtoFoJVfeA&usqp=CAU" group-title="⭐️ Musica",MUS| k pop
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvtEsB879hg9HDLAlisVu8kOC4Q-H8M0_0A&usqp=CAU" group-title="⭐️ Musica",MUS| planeta tv
@@ -418,8 +410,6 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/estvco/chunks.m3u8?nimblesessionid=71900915
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQspCXnw20ViJ2Ghf0oJKqrByKhD-cjo0r0Q&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hIa_LLCYSPa4U-Zs7a8teeWaKihATkL25w&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
-https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4ocE3x2STqWasv8RPDjliXK3D2-WpzjOcQ&usqp=CAU" group-title="⭐️ Musica",MUS| soy plancha tv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
