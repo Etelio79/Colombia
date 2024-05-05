@@ -14,8 +14,6 @@ https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="⭐️ EXCLUSIVO VIP ⭐", FMH Movies
 http://tvlatino.club:2082/pedrovip6mes/3k67n7QfhqxP/345523
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  play
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", nativa tv
@@ -38,12 +36,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflu9n4kR-rsIgJseiVWiyLx7lrad31leb4Q&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", acs tv
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOE4Twh0z3MsblZI0LsHZTDZMV3VVBE_MAQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", neo tv
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLlb98KnsM43GZn9F0rAxQrh2aIc99vslMOKTqJ5GXg&s " group-title="⭐️ EXCLUSIVO VIP ⭐", net tv
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCVFMAgoFIbcd8OlUryT7tQMwq7n53NJmJw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", mega cine tv
