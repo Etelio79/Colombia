@@ -318,8 +318,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/78716
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjYyFqnDMlGn4nUS-yr3o_H_vfJOdIp9JUA&usqp=CAU" group-title="⭐️ Telenovelas",TlN | telenovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0P2uX5houL4Xgxj3KI2OZj9zmJ9Ua-Bp8ig&usqp=CAU" group-title="⭐️ Telenovelas",TlN | Kanal D Drama
-
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtio0kmwXs6X3BSEk78D0q6tN6ZeS3rOOYpg&usqp=CAU" group-title="⭐️ Telenovelas",TlN | novelas turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -345,12 +343,8 @@ http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwn8GQPR90HSnCveXHDZ6EZLqxKJPJH0nNw&usqp=CAU  " group-title="⭐️ Infantiles",INF| animestation 
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTlgurkmI0wbFBEe9MLW-sd9hU1j67fzT1A&usqp=CAU" group-title="⭐️ Infantiles",INF| retro magico
-https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCDs1aiYsO-IBjay_OeM1cqR_rafBRQN-bY5IP_xRqA&s " group-title="⭐️ Infantiles",INF| big
@@ -414,7 +408,7 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-iATr5SM3m7TlS1gq8RWD1-yllkENMRVA&usqp=CAU  " group-title="⭐️ Costa Rica",🇨🇷 | distrito comedia 
-http://185.197.250.22:80/azhaitiinterc349/tUCP4JyX4H/24074
+http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/19
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWo711LZmXezQxTySwR9mqz
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
