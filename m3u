@@ -175,7 +175,7 @@ https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=198z671i
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkpCOtd2sH8XSjkzkZ1Y-2NOlYfEl5ixFcGvCEcmk-w&s "  group-title="⭐️ Colombia", canal 8 tv
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0zqQ7R_diro7wLEsDUVlU2xveqPMyskaOg&usqp=CAU "  group-title="⭐️ Colombia", canal 12 Sincelejo 
-https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/244751203.secure.m3u8?dw=80&hdnea=st=1714777215~exp=1714779015~acl=/i/27724665_10924899_lsiz3f1vx0wptr55r7s_1@88960/*~hmac=cb496d4e28c0b9b0ab6efd28816fc0eb8a28b8ff1af4041d103a40eb0f73f6d2&token=66356dab_43cfaedf02edcda4db2a4f0639bf616fa1f5933e
+https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/244889247.secure.m3u8?dw=80&hdnea=st=1715036342~exp=1715038142~acl=/i/27724665_10924899_lsikr2is3s32zlpsuca_1@446883/*~hmac=3a08f10c840229628ed918faf2049ef96ea1f111f76a5e08cea8d00cf380a0fa&token=663961e2_8e5edcbd179bd27e7960981e765bd189dd666248
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStl6W0CagFMK0ZZ9Jo8yAFyJXQalKRBTtPbg&usqp=CAU  "  group-title="⭐️ Colombia", teleislas
 https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w905697279.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Colombia", vive tv
