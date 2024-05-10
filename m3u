@@ -38,8 +38,6 @@ http://177.234.230.226:8010/play/a00a/index.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCVFMAgoFIbcd8OlUryT7tQMwq7n53NJmJw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", mega cine tv
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkIQQX9b7HpTcRjgWf3xK7FkjOBRWsOPC7w&usqp=CAU" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -93,7 +91,7 @@ https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia", CARACOL  
-http://651725541717813322.ofx508.xyz:80/live/mi34647/GjJm3vdSy@/813322.m3u8
+https://mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/09df13da-f478-4ce0-bf29-8240227e8d0e:CHS/master.m3u8?uid=qm2bloxJTqTdIfOzm0yfnasS1EuxRYP8&sid=wsKXfjIgC0A0SzA1WH0zyIm9uPK44Vpf&pid=oFk4oi0DpHmn06O9bqv0R8JYWIcqGcD0&an=screen&at=web-app&av=v5.2.444&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=360x202&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU"  group-title="⭐️ Colombia", CARACOL opc2
 http://xtream.lat:8880/Alex2023/Alex2023/254
 #EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTPSqd-SXRnnPNmjfdhOTBwwOKxluzLGSRQ&usqp=CAU" group-title="⭐️ Colombia", CARACOL opc3
@@ -174,8 +172,6 @@ https://stmv1.voxtvhd.com.br:443/alpavision/alpavision/chunklist_w283104892.m3u8
 https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=198z671i
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkpCOtd2sH8XSjkzkZ1Y-2NOlYfEl5ixFcGvCEcmk-w&s "  group-title="⭐️ Colombia", canal 8 tv
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM0zqQ7R_diro7wLEsDUVlU2xveqPMyskaOg&usqp=CAU "  group-title="⭐️ Colombia", canal 12 Sincelejo 
-https://player-api.new.livestream.com/accounts/27724665/events/10924899/broadcasts/244889247.secure.m3u8?dw=80&hdnea=st=1715036342~exp=1715038142~acl=/i/27724665_10924899_lsikr2is3s32zlpsuca_1@446883/*~hmac=3a08f10c840229628ed918faf2049ef96ea1f111f76a5e08cea8d00cf380a0fa&token=663961e2_8e5edcbd179bd27e7960981e765bd189dd666248
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStl6W0CagFMK0ZZ9Jo8yAFyJXQalKRBTtPbg&usqp=CAU  "  group-title="⭐️ Colombia", teleislas
 https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w905697279.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Colombia", vive tv
