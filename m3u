@@ -374,8 +374,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkGpw2noPVnyKNnXpLUekrcwBGtoFoJVfeA&usqp=CAU" group-title="⭐️ Musica",MUS| k pop
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvtEsB879hg9HDLAlisVu8kOC4Q-H8M0_0A&usqp=CAU" group-title="⭐️ Musica",MUS| planeta tv
-https://scl.edge.grupoz.cl/music/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvtEsB879hg9HDLAlisVu8kOC4Q-H8M0_0A&usqp=CAU" group-title="⭐️ Musica",MUS| planeta tv music
+https://scl.edge.grupoz.cl:443/planetatv_envivo/live/chunklist_w257232813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74UTr-S1lJuvp86tAcx7zdqXlQq6Y0kcdA&usqp=CAU" group-title="⭐️ Musica",MUS| flow caribeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRH588DRP5mYHC0HtH7DcxigsPGqMWea1Q&usqp=CAU" group-title="⭐️ Musica",MUS|  zona music
