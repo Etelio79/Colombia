@@ -396,10 +396,16 @@ https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TX_goTT2K9DmXdAWb64R8Ruy5AZ-vsW0iQ&usqp=CAU "  group-title="⭐️ Musica",  melody channel
+http://186.155.200.118:1935/melodychannel/melodychannel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDJWvs4ZdfN1nKmnKuFU9eMrnqnGEkMz6kQ&usqp=CAU"  group-title="⭐️ Musica", amordiscos
+http://186.155.200.118:1935/amordiscos/amordiscos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-MBUDBbzWuBBA_X4t0unFD3tPaRzW4XzVQ&usqp=CAU"  group-title="⭐️ Musica", telemusica
+http://186.155.200.118:1935/telemusica/telemusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSrEnfyQCLqtalV7LTfoaVfN1r1BSEBRvrQ&usqp=CAU "  group-title="⭐️ Musica", mundo de la música 
+https://tv.streaming-chile.com:8081/mundodelamusica/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-iATr5SM3m7TlS1gq8RWD1-yllkENMRVA&usqp=CAU  " group-title="⭐️ Costa Rica",🇨🇷 | distrito comedia 
-http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/19
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWo711LZmXezQxTySwR9mqz
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
