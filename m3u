@@ -1,6 +1,5 @@
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", prueba tv
-http://192.168.100.123:30001/file/0ldkNPdv/video.mp4
+
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  terror tv
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz6q_ZyjOt5iGLyiDEY6cTrv7SGb5IZ15ig&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  +cine
