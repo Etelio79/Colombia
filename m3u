@@ -32,6 +32,10 @@ http://177.234.230.226:8010/play/a00a/index.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpniGtsj44_DcDhje43ZCW4PgpJVoeMf3cw2M3g45USQ&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro tv
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtIqOjhdsRUzjXt8f279jwma6aU3eLFbh1A&usqp=CAU"  group-title="⭐️ EXCLUSIVO VIP ⭐", retro plus tv
+https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w564616849.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkIQQX9b7HpTcRjgWf3xK7FkjOBRWsOPC7w&usqp=CAU" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -170,6 +174,12 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w905697279.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Colombia", vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPsQLsGBqeVMOe405xMcFK9MBHR9O2A16TQ&usqp=CAU "  group-title="⭐️ Colombia", tv peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivnB9lMBNl5aYWtqhGj67KEzZnZIDZhOw-8U4-KI&s "  group-title="⭐️ Colombia", oasis tv
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sady8-5NQcyJ0qm2MtUGarjZ0Z5ij_PU63HtBE2fdQ&s "  group-title="⭐️ Colombia", canal institucional 
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
