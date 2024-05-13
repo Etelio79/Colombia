@@ -186,6 +186,12 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sady8-5NQcyJ0qm2MtUGarjZ0Z5ij_PU63HtBE2fdQ&s "  group-title="⭐️ Colombia", canal institucional 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUACyada1VcFiJrHJ-pQjWfktWkSlMzwS20Q&usqp=CAU  "  group-title="⭐️ Colombia", suram tv
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHX9pA85ENFDaaMDgfPuiI5cPIwza95OLYlA&usqp=CAU"  group-title="⭐️ Colombia", multicanal tv
+https://ssh101-fl.bozztv.com:443/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3UJqLDnwjd8Kd8eELy0hM6z6yqILowHJDQ&usqp=CAU  "  group-title="⭐️ Colombia", vision dorada
+https://video.ejeserver.com/live/visiondorada.m3u8
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine Premium",CINE| HBO
