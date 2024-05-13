@@ -36,6 +36,12 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-go2dG-iI6m-3oGj3SuBWWHRrC89yuWCAuYv6k3Y4Zw&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", canela horror
 https://stream.ads.ottera.tv/cl/240513cp158q9arhpkevima9m0/1280x720_1400000_1_f.m3u8?i=475_6029
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7kqMVXE__x2sDCvnBiwvNwd_K0io1HfL7A&usqp=CAU"  group-title="⭐️ EXCLUSIVO VIP ⭐", cine de accion
+https://stream.ads.ottera.tv/cl/240513cp15vfo3t0mi3ijalcrg/1280x720_3071200_0_f.m3u8?i=728_2550
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIv6wCashFNYY_Y6Ca19AYm9lP0B51PuDUGAt5VbQqQ&s"  group-title="⭐️ EXCLUSIVO VIP ⭐", cine espanto 
+https://stream.ads.ottera.tv/cl/240513cp160hg3t0mi3ijama1g/1280x720_3071200_0_f.m3u8?i=728_6126
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxMUaadq3--HDP0wnjTx4Vs4iMRu1Izpx4bPrmdM&s"  group-title="⭐️ EXCLUSIVO VIP ⭐", tv y películas 
+https://stream.ads.ottera.tv/cl/240513cp161332n1484256mpi0/1280x720_3071200_0_f.m3u8?i=728_2154
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkIQQX9b7HpTcRjgWf3xK7FkjOBRWsOPC7w&usqp=CAU" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
