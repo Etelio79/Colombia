@@ -30,13 +30,15 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO TV 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO group-title="⭐️ EXCLUSIVO VIP ⭐TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpniGtsj44_DcDhje43ZCW4PgpJVoeMf3cw2M3g45USQ&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro tv
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-go2dG-iI6m-3oGj3SuBWWHRrC89yuWCAuYv6k3Y4Zw&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", canela horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=45160f1f52dd531af6283d66fd897221&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fcanela-horror&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1715689870&id=56737&ip=190.60.36.90&override_expiration=1500&deliveryProfileId=23762&sign=BBE0%2BVo%2FasJabfOBgX5Wi9TSIr8Oqr3wJk%2FaDSCmvp4%3D
-
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANgroup-title="⭐️ Musica", tvs 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8d9GcTePHZJNN8SW83KMoUI3IZ_58xAXJp-Qt2KLA&usqp=CAU"  group-title="⭐️ EXCLUSIVO VIP ⭐", tvs 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkIQQX9b7HpTcRjgWf3xK7FkjOBRWsOPC7w&usqp=CAU" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -155,14 +157,8 @@ http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0DZkHrOxzRvvKFg7K2NHHhc-havPXvGx7Og&usqp=CAU "  group-title="⭐️ Colombia", telepasto
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIShnnkfmnuk2xhXcUFfkmwSY6vuKNR3tWhA&usqp=CAU "  group-title="⭐️ Colombia", telepetroleo 
-https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmZWYj6-PCRbAAAA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tropicaltv.com.co/images/favico1.png  "  group-title="⭐️ Colombia", tropical tv
-https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ikWuUEZ4tkoPys_OBobp8AEjf2igbeXiNg&usqp=CAU  "  group-title="⭐️ Colombia", mundovision tv
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9g2OGN-Z0u1_h0HnWYr8RhWoJ2vO3WcUn-A&usqp=CAU "  group-title="⭐️ Colombia", tu kanal
-https://envivo.tukanal.tv/hls/abdi.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGo76qhm7OHYTPinR3Tek6NSpPjMRZxHbkAg&usqp=CAU "  group-title="⭐️ Colombia", eduvision
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4No7fqhYCHQVDEt23KyYmedSgGtmkoObfA&usqp=CAU  "  group-title="⭐️ Colombia", frecuencia f
@@ -379,7 +375,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica", vallenatos internacional 
-
+https://server80.servistreaming.com:3884/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXp7faNzukfpcSvgj0LZuZT7R-LZq82Mmag&usqp=CAU"  group-title="⭐️ Musica",  la kalle
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=qm2bloxJTqTdIfOzm0yfnasS1EuxRYP8&sid=dDdYYYpaERhN2GbVgWOOo1KRJx0ugga8&pid=yFhXqbSzCDubZoeXyS9d6T8HSxmdXaSN&an=screen&at=web-app&av=v5.2.449&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x450&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cVUELOV2VdrJ-UbvY6ZsPbLiahYkEiSDjw&usqp=CAU"  group-title="⭐️ Musica", sentimiento vallenato 
@@ -392,6 +388,8 @@ https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyBintIY42L8VAxZKdHUAa15LTu-OWoECtbyA_t8eUA&s"  group-title="⭐️ Musica", hits channel
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tropicaltv.com.co/images/favico1.png  "  group-title="⭐️ Musica", tropical tv
+https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
 #EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Musica", vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Musica", cnc pasto
@@ -422,8 +420,6 @@ https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4ocE3x2STqWasv8RPDjliXK3D2-WpzjOcQ&usqp=CAU" group-title="⭐️ Musica", soy plancha tv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePHZJNN8SW83KMoUI3IZ_58xAXJp-Qt2KLA&usqp=CAU"  group-title="⭐️ Musica", tvs 
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIfYZmG-nNC0mD57u3sfZ358VdDk7NKT24_qfWCJ7Mg&s"  group-title="⭐️ Musica", kpop
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
