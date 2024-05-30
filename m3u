@@ -30,7 +30,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO group-title="⭐️ EXCLUSIVO VIP ⭐TV 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO tv
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpniGtsj44_DcDhje43ZCW4PgpJVoeMf3cw2M3g45USQ&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro tv
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
