@@ -373,10 +373,14 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1Cg2M44INoir7CEHSStgBkwPSrlQhaxmkAXdX6OK_w&s" group-title="⭐️ Infantiles",INF| fanpop
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://beta.neotv.cl/assets/img/channels/caracola-tv.png " group-title="⭐️ Infantiles",INF| caracola tv
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcLuKEiPOMbdnJ-2XAZI1C-_LW9mc0YGvmI_VW84YMA&s " group-title="⭐️ Infantiles",INF| cine kids
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSvIOkvMvO0Oi7KvO6HythO8aZPk5QJ-7xg&usqp=CAU" group-title="⭐️ Infantiles",INF| adult swim
+http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2449.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica", vallenatos internacional 
