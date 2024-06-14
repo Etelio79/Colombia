@@ -351,8 +351,6 @@ http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
  #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCDs1aiYsO-IBjay_OeM1cqR_rafBRQN-bY5IP_xRqA&s " group-title="⭐️ Infantiles",INF| big
@@ -360,15 +358,21 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLbgYSEi5ClJMBqpijB3R4NmT44-lDodb1EqJHsWNw&s" group-title="⭐️ Infantiles",INF| variedad tv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM8S-N0wVb2vOEvK2SqWhwo-2W_zamGS-MA&usqp=CAU  " group-title="⭐️ Infantiles",INF| moni tv
-http://190.102.242.130:25461/multicontenido/1234/1
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06sThWeAgO5O4PMW1luTwE4napK2bptfEjw&usqp=CAU " #EXTINF:-1 tvg-logo="  " group-title="⭐️ Infantiles",INF| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo=" https://beta.neotv.cl/assets/img/channels/lms.png " group-title="⭐️ Infantiles",INF| lms
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQ45NqasJEBUlss3Au4zD5IG7XKLlalwBVU0kH8rPYQ&s " group-title="⭐️ Infantiles",INF| lms
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfY_ltEhCbUtPSgZuRS-FgClq0nPwwmpF8LA&usqp=CAU" group-title="⭐️ Infantiles",INF| latino kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4iJcZqJf4BHP2nCrLgNjXIc3C8MaujeY7g&usqp=CAU " group-title="⭐️ Infantiles",INF| anime tv
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://cdn.m3u.cl/logo/1585_AniRetro.png " group-title="⭐️ Infantiles",INF| aniretro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcpG7DQeENBnR_IPhnjwKmBsgp5zn8Y3GhbiYbzBXqw&s " group-title="⭐️ Infantiles",INF| animestation
+https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://beta.neotv.cl/assets/img/channels/caracola-tv.png " group-title="⭐️ Infantiles",INF| caracola tv
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcLuKEiPOMbdnJ-2XAZI1C-_LW9mc0YGvmI_VW84YMA&s " group-title="⭐️ Infantiles",INF| cine kids
