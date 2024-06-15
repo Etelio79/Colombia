@@ -351,8 +351,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
- #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCDs1aiYsO-IBjay_OeM1cqR_rafBRQN-bY5IP_xRqA&s " group-title="⭐️ Infantiles",INF| big
- https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCDs1aiYsO-IBjay_OeM1cqR_rafBRQN-bY5IP_xRqA&s " group-title="⭐️ Infantiles",INF| big
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLbgYSEi5ClJMBqpijB3R4NmT44-lDodb1EqJHsWNw&s" group-title="⭐️ Infantiles",INF| variedad tv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM8S-N0wVb2vOEvK2SqWhwo-2W_zamGS-MA&usqp=CAU  " group-title="⭐️ Infantiles",INF| moni tv
