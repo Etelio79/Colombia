@@ -143,29 +143,29 @@ http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVD1iwpKE
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXdhy95z5O8w81USiWj7qEs
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/cosmovisión.png"  group-title="⭐️ Colombia", cosmovision 
 https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAJsOsGpJDa7Ry0QDRr14QYLNdgLdzCSpIA&usqp=CAU"  group-title="⭐️ Colombia", Eureka 
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/eureka.png"  group-title="⭐️ Colombia", Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0XhcNebymCz5IUA7ZiotNPqZ_y0NWZU-kw&usqp=CAU"  group-title="⭐️ Colombia", canal zoom
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/zoom.png"  group-title="⭐️ Colombia", canal zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNVYHBg-UeRH6tux-HqAYcx6FVnYdWZYDiQ&usqp=CAU"  group-title="⭐️ Colombia",canal ctv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/ctv.png"  group-title="⭐️ Colombia",canal ctv
 https://59a564764e2b6.streamlock.net:443/ctvbarranquilla/ctv/chunklist_w1297601315.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9Uv5j8eZQT1QPyLUR9Dx1dSHdxvYwdwhUQ&usqp=CAU"  group-title="⭐️ Colombia", canal 2 
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/canal2.png"  group-title="⭐️ Colombia", canal 2 
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhQLNVdOEMu2E4oyMrpRrVmS4T0k1WC_Tg&usqp=CAU"  group-title="⭐️ Colombia", cnc medellín 
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/canalcnc.png"  group-title="⭐️ Colombia", cnc medellín 
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0DZkHrOxzRvvKFg7K2NHHhc-havPXvGx7Og&usqp=CAU "  group-title="⭐️ Colombia", telepasto
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/telepasto.png "  group-title="⭐️ Colombia", telepasto
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ikWuUEZ4tkoPys_OBobp8AEjf2igbeXiNg&usqp=CAU  "  group-title="⭐️ Colombia", mundovision tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/mundovision.png "  group-title="⭐️ Colombia", mundovision tv
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGo76qhm7OHYTPinR3Tek6NSpPjMRZxHbkAg&usqp=CAU "  group-title="⭐️ Colombia", eduvision
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/eduvision.png "  group-title="⭐️ Colombia", eduvision
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4No7fqhYCHQVDEt23KyYmedSgGtmkoObfA&usqp=CAU  "  group-title="⭐️ Colombia", frecuencia f
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/frecuenciaf.png  "  group-title="⭐️ Colombia", frecuencia f
 https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-cD5eE01TCj02dUlw3BsrNGmdBRwvfw7KQ&usqp=CAU"  group-title="⭐️ Colombia", tv familia 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/tvfamilia.png"  group-title="⭐️ Colombia", tv familia 
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpI96idorKj-Mpp5bDwimegVNQWHB5lFLc0A&usqp=CAU"  group-title="⭐️ Colombia", canal 90 minutos
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/90minutos.png"  group-title="⭐️ Colombia", canal 90 minutos
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMl5KAuwE9Z4Ohonq0BfoRbMygX4Q_oi7K4Q&usqp=CAU"  group-title="⭐️ Colombia", canal vip
+#EXTINF:-1  tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/canalvip.png"  group-title="⭐️ Colombia", canal vip
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
 #EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC502trIRFScCdyU3RyGvQa0JsvIo3K5P2zw&usqp=CAU "  group-title="⭐️ Colombia", mi gente tv
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
