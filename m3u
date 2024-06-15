@@ -131,17 +131,17 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 http://galaxypro.online:8080/Jaime12P/JaimeU14/374766
 #EXTINF:-1 xui-id="713005" tvg-id="" tvg-name="CO| Telemedellin" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/Telemedellín.png"  group-title="⭐️ Colombia", Telemedellin
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDMOU-W68vwa7L7jmeAVzpZ-MiqJMQztLlw&usqp=CAU"  group-title="⭐️ Colombia", Tele-pacifico   
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/telepacifico.png"  group-title="⭐️ Colombia", Tele-pacifico   
 http://galaxypro.online:8080/Jaime12P/JaimeU14/374764
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LOg_xTeFBa1Rf0F8QZzvy-IZ4dFebDF_Ww&usqp=CAU"  group-title="⭐️ Colombia", mas tv
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/mastv.png"  group-title="⭐️ Colombia", mas tv
 http://galaxypro.online:8080/Jaime12P/JaimeU14/375747
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFstbzvymPkISwyrD51HIU-sHFVCen1oI1Sg&usqp=CAU"  group-title="⭐️ Colombia", tv agro
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/tvagro.png"  group-title="⭐️ Colombia", tv agro
 http://novared.pro:8080/motors/checkmotors131021/69288
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-cq9zznF3h8STHF-ad3A28wmWXgbHtYldA&usqp=CAU " group-title="⭐️ Colombia", canal tro
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/tro.png " group-title="⭐️ Colombia", canal tro
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVD1iwpKE0RYdEauSelPTeS
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_966xABJ3qeFrVWPMkt9qDvNF1DC8O5wdA&usqp=CAU " group-title="⭐️ Colombia", tele café
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/telecafe.png " group-title="⭐️ Colombia", tele café
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXdhy95z5O8w81USiWj7qEs
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZEiRQZQuiiMf5k3E6hPIdYofCzy5mlSwKA&usqp=CAU"  group-title="⭐️ Colombia", cosmovision 
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/cosmovisión.png"  group-title="⭐️ Colombia", cosmovision 
 https://videohls2.cosmovision.tv:443/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAJsOsGpJDa7Ry0QDRr14QYLNdgLdzCSpIA&usqp=CAU"  group-title="⭐️ Colombia", Eureka 
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
