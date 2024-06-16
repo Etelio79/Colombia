@@ -355,7 +355,7 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/ciudadmagica.png " group-title="⭐️ Infantiles",INF| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="⭐️ Infantiles",INF| mls tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="⭐️ Infantiles",INF| lms
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Infantiles/latinokids.png" group-title="⭐️ Infantiles",INF| latino kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
