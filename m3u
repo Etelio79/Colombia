@@ -341,42 +341,44 @@ http://zeuspro.xyz:8080/adrianogambini1/tNQtNdDN6U/1392
 https://newultra.xyz:8443/49ruqe45zu42su67/m59me2me37m/54423
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
 http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
-#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="⭐️ Infantiles",INF| zaz tv
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/zas.png" group-title="⭐️ Infantiles",INF| zaz tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
-#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/toonzkids.png" group-title="⭐️ Infantiles",INF| toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/dreico.png" group-title="⭐️ Infantiles",INF| dreiko tv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCDs1aiYsO-IBjay_OeM1cqR_rafBRQN-bY5IP_xRqA&s " group-title="⭐️ Infantiles",INF| big
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/big.png" group-title="⭐️ Infantiles",INF| big
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLbgYSEi5ClJMBqpijB3R4NmT44-lDodb1EqJHsWNw&s" group-title="⭐️ Infantiles",INF| variedad tv
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Infantiles/variedtv.png" group-title="⭐️ Infantiles",INF| varied tv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM8S-N0wVb2vOEvK2SqWhwo-2W_zamGS-MA&usqp=CAU  " group-title="⭐️ Infantiles",INF| moni tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/monitv.png  " group-title="⭐️ Infantiles",INF| moni tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06sThWeAgO5O4PMW1luTwE4napK2bptfEjw&usqp=CAU " #EXTINF:-1 tvg-logo="  " group-title="⭐️ Infantiles",INF| ciudad magica
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/ciudadmagica.png " #EXTINF:-1 tvg-logo="  " group-title="⭐️ Infantiles",INF| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQ45NqasJEBUlss3Au4zD5IG7XKLlalwBVU0kH8rPYQ&s " group-title="⭐️ Infantiles",INF| lms
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="⭐️ Infantiles",INF| mls tv
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfY_ltEhCbUtPSgZuRS-FgClq0nPwwmpF8LA&usqp=CAU" group-title="⭐️ Infantiles",INF| latino kids
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Infantiles/latinokids.png" group-title="⭐️ Infantiles",INF| latino kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tO2ii7yIpqOVGSn6IxWn2w01f8uKUL7jL1JAKD2dSg&s" group-title="⭐️ Infantiles",INF| locomotion
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/locomotion.png" group-title="⭐️ Infantiles",INF| locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4iJcZqJf4BHP2nCrLgNjXIc3C8MaujeY7g&usqp=CAU " group-title="⭐️ Infantiles",INF| anime tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/taltal.png " group-title="⭐️ Infantiles",INF| taltal anime
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://cdn.m3u.cl/logo/1585_AniRetro.png " group-title="⭐️ Infantiles",INF| aniretro
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/aniRetro.png " group-title="⭐️ Infantiles",INF| aniretro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcpG7DQeENBnR_IPhnjwKmBsgp5zn8Y3GhbiYbzBXqw&s " group-title="⭐️ Infantiles",INF| animestation
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/animestation.png " group-title="⭐️ Infantiles",INF| animestation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1Cg2M44INoir7CEHSStgBkwPSrlQhaxmkAXdX6OK_w&s" group-title="⭐️ Infantiles",INF| fanpop
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/fanpop.png" group-title="⭐️ Infantiles",INF| fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU " group-title="⭐️ Infantiles",INF| caracola tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/caracola.png " group-title="⭐️ Infantiles",INF| caracola tv
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcLuKEiPOMbdnJ-2XAZI1C-_LW9mc0YGvmI_VW84YMA&s " group-title="⭐️ Infantiles",INF| cine kids
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/cinekids.png" group-title="⭐️ Infantiles",INF| cine kids
 https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSvIOkvMvO0Oi7KvO6HythO8aZPk5QJ-7xg&usqp=CAU" group-title="⭐️ Infantiles",INF| adult swim
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/adultswin.png" group-title="⭐️ Infantiles",INF| adult swim
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2449.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pitufotv.png " group-title="⭐️ Infantiles",INF| pitufo tv
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Hu6H9-GTamD9x6Wf94xJ
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica", vallenatos internacional 
