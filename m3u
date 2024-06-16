@@ -491,10 +491,12 @@ https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina",  directv sports (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv.png" group-title="⚽ Deportes argentina",  directv sports (argentina)
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVGflO7xHdfq-noaJX3979a
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl8or_Oto1vobff4XCUBHofL2uDkvpTr9Hw&usqp=CAU " group-title="⚽ Deportes argentina",  directv sport 2 (argentina)
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv2.png " group-title="⚽ Deportes argentina",  directv sport 2 (argentina)
 https://castlempire.site:443/jorgen3/zagw733/181233.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv%2B.png" group-title="⚽ Deportes argentina",  directv sports + (argentina)
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVGflO7xHdfq-noaJX3979a
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn.png" group-title="⚽ Deportes argentina",  espn (argentina)
 http://174620881529776668.ofp52.xyz:80/live/vi37296/6DJkXrwuEtk/776668.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn2.png " group-title="⚽ Deportes argentina",  espn 2 (argentina)
@@ -509,7 +511,7 @@ http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/144
 http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/85
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox3.png" group-title="⚽ Deportes argentina", fox 3 (argentina)
 http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/84
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes argentina", tyc SPORTS (argentina)
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tyc.png"  group-title="⚽ Deportes argentina", tyc SPORTS (argentina)
 http://emuligl.info:8080/9HDVmA36bMTW/CguuCwsF3yRt/267
 
 
