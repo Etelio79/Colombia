@@ -40,6 +40,24 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", Bum televisión 
 https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/TV-TV.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", tv & tv
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/Bayres.png  "  group-title="⭐️ EXCLUSIVO VIP ⭐", bayres tv
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/diditv.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", diti tv
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retro-mágico.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", retro magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/evavision.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", evavision
+https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", tv prime
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", wom tv
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/infinitatv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", infinita tv premium
+https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/panictv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", panic tv 
+https://panel.host-live.com/80010/80010/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -347,6 +365,12 @@ http://zeuspro.xyz:8080/adrianogambini1/tNQtNdDN6U/1392
 https://newultra.xyz:8443/49ruqe45zu42su67/m59me2me37m/54423
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
 http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/greekz.png" group-title="⭐️ Infantiles",INF| greekz tv
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/palmerastv.png" group-title="⭐️ Infantiles",INF| palmeras tv 
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Canalipe.png" group-title="⭐️ Infantiles",INF| canal ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/zas.png" group-title="⭐️ Infantiles",INF| zaz tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/toonzkids.png" group-title="⭐️ Infantiles",INF| toonz kids
