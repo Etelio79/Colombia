@@ -42,8 +42,6 @@ https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 https://video.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/TV-TV.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", tv & tv
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/Bayres.png  "  group-title="⭐️ EXCLUSIVO VIP ⭐", bayres tv
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/diditv.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", diti tv
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retro-mágico.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", retro magico
