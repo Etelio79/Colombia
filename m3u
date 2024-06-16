@@ -32,7 +32,14 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelahorror.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", canela horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=45160f1f52dd531af6283d66fd897221&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fcanela-horror&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1715689870&id=56737&ip=190.60.36.90&override_expiration=1500&deliveryProfileId=23762&sign=BBE0%2BVo%2FasJabfOBgX5Wi9TSIr8Oqr3wJk%2FaDSCmvp4%3D
-
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrotvonline.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro tv online 
+https://ssh101-fl.bozztv.com:443/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retropalmarés.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrox.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", retrox tv
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", Bum televisión 
+https://video.ejeserver.com/live/visiondorada.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
@@ -189,8 +196,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/multicanal.png"  group-title="⭐️ Colombia", multicanal tv
 https://ssh101-fl.bozztv.com:443/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="⭐️ Colombia", Bum televisión 
-https://video.ejeserver.com/live/visiondorada.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbo.png" group-title="⭐️ Cine Premium",CINE| HBO
