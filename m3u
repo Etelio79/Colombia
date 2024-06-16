@@ -49,6 +49,8 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retro-mágico.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", retro magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/evavision.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", evavision
+https://stmv1.voxtvhd.com.br/evavisioncl/evavisioncl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/evavisionretro.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", evavision retro
 https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", tv prime
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
