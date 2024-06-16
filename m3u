@@ -233,68 +233,38 @@ http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/137.m3u8
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184705
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbosignature.png" grupo-title="⭐️ Cine Premium",CINE| HBO signature
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/136.m3u8
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/fx.png" group-title="⭐️ Cine Premium",CINE| fx
 http://xtream.lat:8880/Alex2023/Alex2023/80
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
-http://xtream.lat:8880/Alex2023/Alex2023/113
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://xtream.lat:8880/Alex2023/Alex2023/6 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cinemax
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/space.png" group-title="⭐️ Cine Premium",CINE| space
+http://xtream.lat:8880/Alex2023/Alex2023/113
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/Cinemax.png " group-title="⭐️ Cine Premium",CINE| cinemax
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVs7XqjBc0GVDMWZY7s1Ckd
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
-http://xtream.lat:8880/Alex2023/Alex2023/365
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
-http://xtream.lat:8880/Alex2023/Alex2023/243
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
-http://xtream.lat:8880/Alex2023/Alex2023/19
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184592
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184657
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/Cinecanal.png " group-title="⭐️ Cine Premium",CINE| cinecanal
 http://xtream.lat:8880/Alex2023/Alex2023/36
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3zE1yMNR95v-NLsUiY_MhHKf-tbApjRpUw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden premier
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMV5fp5exW8QCcrCLpu4zCF7GWAasUsltug&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Golden EDGE
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUbpKDQX-HVTq3wdaVnOTxG
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJXqXA_cKR17wjNJL6Go4FOtZlWGn2j_9JA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| golden 
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUejfBB-XzwSlInTH9ZkxHG
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRX0wqSXHdfSqZlpGAsRVnSTMTcDWReuZiRw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| golden plus
-http://xtream.lat:8880/Alex2023/Alex2023/86  
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgK8nmyYFbfs2asYSsyf0VEax8yjJnLYJQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de pelicula
-http://xtream.lat:8880/Alex2023/Alex2023/41
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de película clásico 
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWWetX37PKq3Vt5u2-_Rhdq
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/239661.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXv1aA5my7Eu-eBHg9eFUeb
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWrswjeVWM6IIIsSNzryM_5
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Europa-Europa
-http://xtream.lat:8880/Alex2023/Alex2023/140022
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXHhCMQDR934SepH4wLHqAb
-#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184653
-#EXTINF:-1 tvg-id="UNTVCHD" tvg-name="E | Universal TV" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="⭐️ Cine Premium",CINE| universal channel
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVHX_HQCNSyXEu3HMfe8FnY
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5pW3OIoS49XWgb_qI7rCgZPE45J9LTPsJQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| universal cinema
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184699
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYgyPNFBP6tBSzCBbKBl-OmpK3cjpoMRi-w&usqp=CAU " group-title="⭐️ Cine Premium",CINE| Universal Crime
-http://xtream.lat:8880/Alex2023/Alex2023/70
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9JkWOtaWjgYcKZEHyBaRzKpR_9-pO7JCbg&usqp=CAU" group-title="⭐️ Cine Premium",CINE| universal premier
-http://xtream.lat:8880/Alex2023/Alex2023/75
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhHNGUXvj4712PUyB0mttusQuIukdirpEsw&usqp=CAU  " group-title="⭐️ Cine Premium",CINE| cine dinamita
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEV8EkZpONn8S3a_zdVQ4IAd
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXCq8KMtRzQi30dE8hDnbI8l1YVI1ayV0Tg&usqp=CAU " group-title="⭐️ Cine Premium",CINE| cine latino
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/TNTseries.png " group-title="⭐️ Cine Premium",CINE| tnt series
+http://xtream.lat:8880/Alex2023/Alex2023/365
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/TNT.png " group-title="⭐️ Cine Premium",CINE| tnt
+http://xtream.lat:8880/Alex2023/Alex2023/243
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/AMC.png " group-title="⭐️ Cine Premium",CINE| amc
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/cinelatino.png " group-title="⭐️ Cine Premium",CINE| cine latino 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUyE1Wi4UjaSBxdjKkNGZ17
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXEFPhBDC6SpNfEuSk7NI87Ql6dHdRDTWAw&usqp=CAU " group-title="⭐️ Cine Premium",CINE| dhe
-https://castlempire.site:443/jorgen3/zagw733/241170.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DziOemaRKZu-NiBYHQfwPbJ0Thgu2oe68Q&usqp=CAU  " group-title="⭐️ Cine Premium",CINE| tcm
-https://castlempire.site:443/jorgen3/zagw733/190250.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbUTUn5UP2BUl8h-3-S8v-9oGKDG2V4AwkQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| syfy
-http://282688578248321424.ofds0328.xyz:80/play/fe107234/wvqCm6Ccyv/321424.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/SyFy.png " group-title="⭐️ Cine Premium",CINE| syfy
+http://282688578248321424.ofds0328.xyz:80/play/fe107234/wvqCm6Ccyv/321424.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/Sonycine.png" group-title="⭐️ Cine Premium",CINE| sony cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/sonymovie.png " group-title="⭐️ Cine Premium",CINE| sony movies
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXv1aA5my7Eu-eBHg9eFUeb
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/cinefamiliar.png " group-title="⭐️ Cine Premium",CINE| cine familiar 
+http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/cinehispano.png  " group-title="⭐️ Cine Premium",CINE| cine hispano 
+http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinepremiun.png" group-title="⭐️ Cine Premium",CINE| cine premiun 
+http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinear.png" group-title="⭐️ Cine Premium",CINE| cinear
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 
