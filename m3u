@@ -177,23 +177,23 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://tvlatina.live:1936/8012/8012/chunklist_w2103233655.m3u8
 #EXTINF:-1  tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/alpavision.png "  group-title="⭐️ Colombia", canal 2 alpavision 
 https://stmv1.voxtvhd.com.br:443/alpavision/alpavision/chunklist_w283104892.m3u8
-#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_8iuDfL-0_pV0o7YnsP0957bROWeDnd_Zg&usqp=CAU "  group-title="⭐️ Colombia", canal 55 telemorisco
+#EXTINF:-1  tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/canal55.png "  group-title="⭐️ Colombia", canal 55 telemorisco
 https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=198z671i
-#EXTINF:-1  tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkpCOtd2sH8XSjkzkZ1Y-2NOlYfEl5ixFcGvCEcmk-w&s "  group-title="⭐️ Colombia", canal 8 tv
+#EXTINF:-1  tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/canal8.png "  group-title="⭐️ Colombia", canal 8 tv
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStl6W0CagFMK0ZZ9Jo8yAFyJXQalKRBTtPbg&usqp=CAU  "  group-title="⭐️ Colombia", teleislas
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/teleisla.png "  group-title="⭐️ Colombia", teleislas
 https://5ab772334c39c.streamlock.net:443/live-teleislas/_definst_/teleislas/chunklist_w905697279.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPsQLsGBqeVMOe405xMcFK9MBHR9O2A16TQ&usqp=CAU "  group-title="⭐️ Colombia", tv peñol
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/peñoltv.png "  group-title="⭐️ Colombia", tv peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivnB9lMBNl5aYWtqhGj67KEzZnZIDZhOw-8U4-KI&s "  group-title="⭐️ Colombia", oasis tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/oasistv.png "  group-title="⭐️ Colombia", oasis tv
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sady8-5NQcyJ0qm2MtUGarjZ0Z5ij_PU63HtBE2fdQ&s "  group-title="⭐️ Colombia", canal institucional 
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/canalinstitucional.png "  group-title="⭐️ Colombia", canal institucional 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUACyada1VcFiJrHJ-pQjWfktWkSlMzwS20Q&usqp=CAU  "  group-title="⭐️ Colombia", suram tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/suram.png "  group-title="⭐️ Colombia", suram tv
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHX9pA85ENFDaaMDgfPuiI5cPIwza95OLYlA&usqp=CAU"  group-title="⭐️ Colombia", multicanal tv
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/multicanal.png"  group-title="⭐️ Colombia", multicanal tv
 https://ssh101-fl.bozztv.com:443/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3UJqLDnwjd8Kd8eELy0hM6z6yqILowHJDQ&usqp=CAU  "  group-title="⭐️ Colombia", vision dorada
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="⭐️ Colombia", Bum televisión 
 https://video.ejeserver.com/live/visiondorada.m3u8
 
 
