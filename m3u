@@ -429,25 +429,29 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJHAO57nTafydZYiYRNlIwI4p25aoPLngvw&usqp=CAU " group-title=" ⚽ Deporte VIP", nba tv
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/nba.png " group-title=" ⚽ Deporte VIP", nba tv
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAin7NEwByZteT-a2hwyMyMhC0QoIIRzTAg&usqp=CAU " group-title=" ⚽ Deporte VIP", mlb network 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/mlb.png " group-title=" ⚽ Deporte VIP", mlb network 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHxiTdiFIlda7E_rQbemUwOHs4wudO9zNl_w&usqp=CAU " group-title=" ⚽ Deporte VIP", nfl network 
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pejXpGwHdbSzt4QaoVkj4ZIfQKRqQr1-aA&usqp=CAU " group-title=" ⚽ Deporte VIP", tennis channels
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/combateglobal.png " group-title=" ⚽ Deporte VIP", combate global 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/tennis.png " group-title=" ⚽ Deporte VIP", tennis channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT907hCv_QxjR-xgZUYiD5h-PZFJFBdQJrxQ&usqp=CAU   " group-title=" ⚽ Deporte VIP", golf channels
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/golf.png " group-title=" ⚽ Deporte VIP", golf channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGaDF6QDi_GPvSIhhSB5qW3B7PzR_QU18pw&usqp=CAU " group-title=" ⚽ Deporte VIP", wwe network
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/WWE.png " group-title=" ⚽ Deporte VIP", wwe network
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkNQLycLM4yIB05WC03Y4hhpDubrlJlH2fA&usqp=CAU " group-title=" ⚽ Deporte VIP", ufc network 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/ufc.png" group-title=" ⚽ Deporte VIP", ufc network 
 https://castlempire.site:443/jorgen3/zagw733/255599.ts
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/footbolnet.png" group-title=" ⚽ Deporte VIP", football network 
+https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/redbull.png " group-title=" ⚽ Deporte VIP", redbull 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="⚽ Deporte Colombia",COL |  WIN SPORTS
 http://galaxypro.online:8080/Guardi151023gro/ROROtv1Gg/237342
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deporte Colombia",COL | WIN SPORT+ 
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win%2B.png" group-title="⚽ Deporte Colombia",COL | WIN SPORT+ 
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/57121
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ5UTCOeWgHCSzTtzIG74Qrl-0duXJhd0Rg&usqp=CAU" group-title="⭐️ Tv Dazn Eventos",DAZN MOVISTAR 1
@@ -485,10 +489,10 @@ http://45.143.223.86:2095/azhaitiinterc349/tUCP4JyX4H/27246
 http://xtream.lat:8880/Alex2023/Alex2023/291
 #EXTINF:-1 tvg-id="" tvg-name="TUDN SPORTS" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png"  group-title="⚽ Deportes Mexico",  TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PDd15iainrYWPWE12TlckTQy0MexK7ZouQ&usqp=CAU" group-title="⚽ Deportes Mexico", deportes itv
+ #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/itv.png" group-title="⚽ Deportes Mexico", deportes itv
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
- #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSazdB6chE4ha6HFJRha7Pcm8anxGbyESmxLg&usqp=CAU" group-title="⚽ Deportes Mexico", futbol network tv
-https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+ 
+
 
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU" group-title="⚽ Deportes argentina",  directv sports (argentina)
