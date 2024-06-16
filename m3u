@@ -14,25 +14,23 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/telemax.png" group-title="⭐️ EXCLUSIVO VIP ⭐",  telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ EXCLUSIVO VIP ⭐", extrema tv acción 
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/xtrema.png" group-title="⭐️ EXCLUSIVO VIP ⭐", extrema tv acción 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/freetv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", freetv acción 
 https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/grjngo.png" group-title="⭐️ EXCLUSIVO VIP ⭐", grjngo del oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatgyllOGa15ZbbNK0hsNTY8sO2SdQQMusKQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine clasico
-https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", bigtime
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/bigtime.png" group-title="⭐️ EXCLUSIVO VIP ⭐", bigtime
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", clover peliculas 
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cloverchannel.png" group-title="⭐️ EXCLUSIVO VIP ⭐", clover peliculas 
 http://177.234.230.226:8010/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/orbottv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cocotv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO tv
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpniGtsj44_DcDhje43ZCW4PgpJVoeMf3cw2M3g45USQ&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinefilos.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", cinefilos 
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-go2dG-iI6m-3oGj3SuBWWHRrC89yuWCAuYv6k3Y4Zw&s "  group-title="⭐️ EXCLUSIVO VIP ⭐", canela horror
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelahorror.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", canela horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=45160f1f52dd531af6283d66fd897221&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fcanela-horror&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1715689870&id=56737&ip=190.60.36.90&override_expiration=1500&deliveryProfileId=23762&sign=BBE0%2BVo%2FasJabfOBgX5Wi9TSIr8Oqr3wJk%2FaDSCmvp4%3D
 
 
