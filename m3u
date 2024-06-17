@@ -270,40 +270,35 @@ http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
+#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/animalplanet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 https://castlempire.site:443/jorgen3/zagw733/190664.m3u8
-#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
+#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverychannel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
 https://castlempire.site:443/jorgen3/zagw733/190695.m3u8
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
+#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryfamily.png" group-title="⭐️ Cultura",CUL| Discovery Familia
 http://budtvlight.com:25461/JW2WBkS637f6Vyqpn/av76gFJ1AeEDzXoV2/159157
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryh-h.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341976
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryid.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
 http://zeuspro.xyz:8080/adrianogambini1/tNQtNdDN6U/26898
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverysci.png" group-title="⭐️ Cultura",CUL| Discovery SCI
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/227399
-#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
+#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverytheater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
 http://alfatv.lat:2082/Hector@Espindola/Dolores@Lolis/235590
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
+#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/Discoveryturbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341983
-#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
+#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryworld.png" group-title="⭐️ Cultura",CUL| Discovery World
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341982 
-#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
+#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/history.png" group-title="⭐️ Cultura",CUL| History Channel
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341989
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/history2.png" group-title="⭐️ Cultura",CUL| History Channel 2
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341991
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
-http://181.214.220.29:25461/live/Micue682gf9nato/Cuidx4uqbf/117194.m3u8?token=GkMOV0pdG18SAlRXAgIAVwZSDw0CBQRUBVJTVFddU1JSUQNQAQIMXAgXGUNHFxRXAllmXVYVDgdVB1dcBUlBFBIEFGlQURtfEgMGUwFSURBPFk1dX1IWDFQcRBVYAUFbQ1VVDgoDG0kSUE0VUREIUw9rXVFEXldTRgoIEF0JT0MODzlSXFhYC1QXD0MEQUoQCkdJFghZQVoIHEQHWBERABUERAwbBgBWCBcZQ1cME1wXRkAWCBV3eUYcRABJEQYPEggJWBsPGwgDQA1DGEEPQTxGXEdGRVFXCVUURwtHU0NNQwtXQWpaCl5bUAJACglcEBYDFgcVGBQJXwgMRQoRPhEIAhQDFwtcBwAGQ0k=
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU " group-title="⭐️ Cultura",CUL|  nat geo wild
-http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341995
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cultura/lovenature.png " group-title="⭐️ Cultura",CUL| love nature
 http://galaxypro.online:8080/Jaime12P/JaimeU14/239460
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="⭐️ Cultura",CUL| Animales
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/animales.png" group-title="⭐️ Cultura",CUL| Animales
 https://r.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="⭐️ Cultura",CUL| Naturaleza
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/naturaleza.png" group-title="⭐️ Cultura",CUL| Naturaleza
 https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgp_AtqNsyY9uFbSgaW8gu6LUHRJiM3Fqfxw&usqp=CAU" group-title="⭐️ Cultura",CUL| OXÍGENO TV
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/oxígeno.png" group-title="⭐️ Cultura",CUL| OXÍGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
 
 
