@@ -383,55 +383,36 @@ http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2449.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pitufotv.png " group-title="⭐️ Infantiles",INF| pitufo tv
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Hu6H9-GTamD9x6Wf94xJ
 
-
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica", vallenatos internacional 
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/vallenatosinter.png" group-title="⭐️ Musica", vallenatos internacional 
 https://server80.servistreaming.com:3884/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXp7faNzukfpcSvgj0LZuZT7R-LZq82Mmag&usqp=CAU"  group-title="⭐️ Musica",  la kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=qm2bloxJTqTdIfOzm0yfnasS1EuxRYP8&sid=dDdYYYpaERhN2GbVgWOOo1KRJx0ugga8&pid=yFhXqbSzCDubZoeXyS9d6T8HSxmdXaSN&an=screen&at=web-app&av=v5.2.449&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x450&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cVUELOV2VdrJ-UbvY6ZsPbLiahYkEiSDjw&usqp=CAU"  group-title="⭐️ Musica", sentimiento vallenato 
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Musica/sentimientovalle.png"  group-title="⭐️ Musica", sentimiento vallenato 
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQ4Lcos3vLcar6JEZpvcoH8_NS4t6igQCWw&usqp=CAU"  group-title="⭐️ Musica",  son corazón 
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Musica/lakalle.png"  group-title="⭐️ Musica",  la kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=qm2bloxJTqTdIfOzm0yfnasS1EuxRYP8&sid=dDdYYYpaERhN2GbVgWOOo1KRJx0ugga8&pid=yFhXqbSzCDubZoeXyS9d6T8HSxmdXaSN&an=screen&at=web-app&av=v5.2.449&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x450&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Musica/soncorazon.png"  group-title="⭐️ Musica",  son corazón 
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5t8azYUKgV-bqcdjmQI1-3VsUr3wM1FvN4p9efH46Q&s"  group-title="⭐️ Musica",  son latino
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Musica/sonlatino.png"  group-title="⭐️ Musica",  son latino
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-4Y4stsC4Qk_qanPAsN2dg4RRQUkCz1ZCw&usqp=CAU"  group-title="⭐️ Musica",  son popular 
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/popular.png"  group-title="⭐️ Musica",  son popular 
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyBintIY42L8VAxZKdHUAa15LTu-OWoECtbyA_t8eUA&s"  group-title="⭐️ Musica", hits channel
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/hits.png"  group-title="⭐️ Musica", hits channel
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tropicaltv.com.co/images/favico1.png  "  group-title="⭐️ Musica", tropical tv
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/tropicaltv.png  "  group-title="⭐️ Musica", tropical tv
 https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
-#EXTINF:-1  tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXvuUSp8IZQ-6W6KMh2GFmdkXj--25D2dsg&usqp=CAU"  group-title="⭐️ Musica", vive tv
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWNGhimyaYb72FnECCu51pM3cTsk0YSrcKQ&usqp=CAU"  group-title="⭐️ Musica", cnc pasto
-https://hvtraficonew.ddns.net:443/pastocnc9/cnc9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica", salsa gorda tv
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/salsagorda.png" group-title="⭐️ Musica", salsa gorda tv
 https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica", v classic tv tropical
-https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="⭐️ Musica", trace urban
-https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrJWh5mqMrwPCu0M4WTTe0gYKBDdSWLvXBQ&usqp=CAU"  group-title="⭐️ Musica", tu pop favorito 
+#EXTINF:-1  tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Musica/vivetv.png"  group-title="⭐️ Musica", vive tv
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/tupopfavorito.png"  group-title="⭐️ Musica", tu pop favorito 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica", top tv
-https://isaocorp.cloudecast.com:443/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8Mxq-x3kFdPVwHqJQIWOmK6RN0gcFd4mkYtvgXpyXsaL42PdYXTcxWw&usqp=CAU"  group-title="⭐️ Musica", canela tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvtEsB879hg9HDLAlisVu8kOC4Q-H8M0_0A&usqp=CAU" group-title="⭐️ Musica", planeta tv music
-https://scl.edge.grupoz.cl:443/planetatv_envivo/live/chunklist_w257232813.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74UTr-S1lJuvp86tAcx7zdqXlQq6Y0kcdA&usqp=CAU" group-title="⭐️ Musica", flow caribeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRH588DRP5mYHC0HtH7DcxigsPGqMWea1Q&usqp=CAU" group-title="⭐️ Musica",  zona music
-http://novared.pro:8080/motors/checkmotors131021/218737
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica", circuito pop 
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/cicuitopop.png" group-title="⭐️ Musica", circuito pop 
 https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica", hits 360
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/hits360.png" group-title="⭐️ Musica", hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQspCXnw20ViJ2Ghf0oJKqrByKhD-cjo0r0Q&usqp=CAU" group-title="⭐️ Musica", cantina tv
+#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/cantinatv.png" group-title="⭐️ Musica", cantina tv
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4ocE3x2STqWasv8RPDjliXK3D2-WpzjOcQ&usqp=CAU" group-title="⭐️ Musica", soy plancha tv
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/soyplancha.png" group-title="⭐️ Musica", soy plancha tv
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIfYZmG-nNC0mD57u3sfZ358VdDk7NKT24_qfWCJ7Mg&s"  group-title="⭐️ Musica", kpop
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/nba.png " group-title=" ⚽ Deporte VIP", nba tv
