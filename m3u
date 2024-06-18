@@ -332,8 +332,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/greekz.png" group-title="⭐️ Infantiles",INF| greekz tv
 https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/palmerastv.png" group-title="⭐️ Infantiles",INF| palmeras tv 
-https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Canalipe.png" group-title="⭐️ Infantiles",INF| canal ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/zas.png" group-title="⭐️ Infantiles",INF| zaz tv
@@ -362,8 +360,10 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/animestation.png " group-title="⭐️ Infantiles",INF| animestation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pandamax.png" group-title="⭐️ Infantiles",INF| pandamax anime
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pandamax.png" group-title="⭐️ Infantiles",INF| pandamax 
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/animetv.png" group-title="⭐️ Infantiles",INF| anime tv
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/fanpop.png" group-title="⭐️ Infantiles",INF| fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/caracola.png " group-title="⭐️ Infantiles",INF| caracola tv
