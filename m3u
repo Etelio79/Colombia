@@ -329,7 +329,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28a2954b020008ed13
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Nickelodeon.png " group-title="⭐️ Infantiles",INF| Nickelodeon clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/dreamworks.png " group-title="⭐️ Infantiles",INF| Dreamworks 
+http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/greekz.png" group-title="⭐️ Infantiles",INF| greekz tv
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Canalipe.png" group-title="⭐️ Infantiles",INF| canal ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/zas.png" group-title="⭐️ Infantiles",INF| zaz tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/toonzkids.png" group-title="⭐️ Infantiles",INF| toonz kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/dreico.png" group-title="⭐️ Infantiles",INF| dreiko tv
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/big.png" group-title="⭐️ Infantiles",INF| big
+https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Infantiles/variedtv.png" group-title="⭐️ Infantiles",INF| varied tv
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/monitv.png  " group-title="⭐️ Infantiles",INF| moni tv
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/ciudadmagica.png " group-title="⭐️ Infantiles",INF| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="⭐️ Infantiles",INF| lms
