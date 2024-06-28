@@ -53,12 +53,12 @@ https://stmv1.voxtvhd.com.br/evavisioncl/evavisioncl/playlist.m3u8?PlaylistM3UCL
 https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", tv prime
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", wom tv
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/infinitatv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", infinita tv premium
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/panictv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", panic tv 
-https://panel.host-live.com/80010/80010/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/panictv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", panc tv 
+https://tv.streamcasthd.com:3260/live/pancperulive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
