@@ -49,8 +49,8 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retroplay.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", retro play tv
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/evavisionretro.png"  group-title="⭐️ EXCLUSIVO VIP ⭐", evavision retro
-https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rex.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", canal rex
+http://190.102.242.130:25461/live/multicontenido/1234/127.ts
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", tv prime
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", wow tv
