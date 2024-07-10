@@ -22,8 +22,8 @@ https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/bigtime.png" group-title="⭐️ EXCLUSIVO VIP ⭐", bigtime
 https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cloverchannel.png" group-title="⭐️ EXCLUSIVO VIP ⭐", clover peliculas 
-http://177.234.230.226:8010/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cloverchannel.png" group-title="⭐️ EXCLUSIVO VIP ⭐", run:time accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YNN&did=ad622aecd77ec837915c84aad94feb29&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/orbottv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cocotv.png" group-title="⭐️ EXCLUSIVO VIP ⭐", COCO tv
