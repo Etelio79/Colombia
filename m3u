@@ -396,8 +396,8 @@ https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/tupopfavorito.png"  group-title="⭐️ Musica", tu pop favorito 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/cicuitopop.png" group-title="⭐️ Musica", circuito pop 
-https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/molahits.png" group-title="⭐️ Musica", mola hits
+https://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/hits360.png" group-title="⭐️ Musica", hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/cantinatv.png" group-title="⭐️ Musica", cantina tv
