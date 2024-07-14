@@ -54,10 +54,10 @@ http://190.102.242.130:25461/live/multicontenido/1234/127.ts
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/infinitatv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", infinita tv premium
-https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/panictv.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", panc tv 
-https://tv.streamcasthd.com:3260/live/pancperulive.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seopeliculas.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", seo tv películas 
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seoyungas.png "  group-title="⭐️ EXCLUSIVO VIP ⭐", seo tv yungas
+https://seo.tv.bo/tv/SEOTV7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="⚽ VIX  DEPORTES ⚽", FUTBOL 1
