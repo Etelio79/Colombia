@@ -1,130 +1,17 @@
 
 
 
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/terrortv.png" group-title="CINE VIP",  terror tv
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/%2Bcine.png " group-title="CINE VIP",  +cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cineparatodos.png" group-title="CINE VIP", cine para todos 
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinemaclasico.png" group-title="CINE VIP", cinema clásico 
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cosmos.png" group-title="CINE VIP",  cosmos
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinerama.png" group-title="CINE VIP",  cinerama
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/telemax.png" group-title="CINE VIP",  telemax
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/xtrema.png" group-title="CINE VIP", extrema tv acción 
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/freetv.png" group-title="CINE VIP", freetv acción 
-https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/grjngo.png" group-title="CINE VIP", grjngo del oeste
-https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelaclasicos.png" group-title="CINE VIP", canela clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=ad622aecd77ec837915c84aad94feb29&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1720656949&id=47158&ip=190.60.36.91&override_expiration=1500&deliveryProfileId=23762&sign=PAdLowXJcr3Drvn96ob1agY5ScAyprw42XTBCH98zWo%3D
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rutime.png " group-title="CINE VIP", run:time accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YNN&did=ad622aecd77ec837915c84aad94feb29&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/orbottv.png" group-title="CINE VIP", orbit tv 
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cocotv.png" group-title="CINE VIP", COCO tv
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinefilos.png "  group-title="CINE VIP", cinefilos 
-https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelahorror.png "  group-title="CINE VIP", canela horror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=45160f1f52dd531af6283d66fd897221&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fcanela-horror&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1715689870&id=56737&ip=190.60.36.90&override_expiration=1500&deliveryProfileId=23762&sign=BBE0%2BVo%2FasJabfOBgX5Wi9TSIr8Oqr3wJk%2FaDSCmvp4%3D
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrotvonline.png "  group-title="CINE VIP", retro tv online 
-https://ssh101-fl.bozztv.com:443/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retropalmarés.png "  group-title="CINE VIP", retro palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrox.png "  group-title="CINE VIP", retrox tv
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="CINE VIP", Bum televisión 
-https://video.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/TV-TV.png"  group-title="CINE VIP", tv & tv
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/diditv.png"  group-title="CINE VIP", diti tv
-https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retro-mágico.png"  group-title="CINE VIP", retro magico
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retroplay.png "  group-title="CINE VIP", retro play tv
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rex.png "  group-title="CINE VIP", canal rex
-http://190.102.242.130:25461/live/multicontenido/1234/127.ts
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="CINE VIP", tv prime
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="CINE VIP", wow tv
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seopeliculas.png "  group-title="CINE VIP", seo tv películas 
-https://seo.tv.bo/tv/SEOTV4_HD.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seoyungas.png "  group-title="CINE VIP", seo tv yungas
-https://seo.tv.bo/tv/SEOTV7.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 1
-https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 2
-https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 3
-https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 4
-https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 5
-https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 6
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 7
-https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 8
-https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 9
-https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 10
-https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 11
-https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 12
-https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 13
-https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 14
-https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 15
-https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 16
-https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 17
-https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 18
-https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 19
-https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 20
-https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 21
-https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 22
-https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 23
-https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 24
-https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png "  group-title="Colombia", CARACOL  
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png "  group-title="Colombia", CARACOL opc2
-http://xtream.lat:8880/Alex2023/Alex2023/254
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png " group-title="Colombia", CARACOL opc3
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png " group-title="Colombia", CARACOL HD
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/12
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracolint.png" group-title="Colombia", caracol internacional
-https://mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/42b08594-99a4-4c86-ae0d-55a6726f735e:CBF2/master.m3u8?uid=qm2bloxJTqTdIfOzm0yfnasS1EuxRYP8&sid=IgmICkI3JoJ3s7BXP3wgP6dcbnoSV2ww&pid=uh2FBlTO88rIguqxvGtSFvbxTYnxdNmh&an=screen&at=web-app&av=v6.0.13&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=360x202&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png"  group-title="Colombia", RCN opc1
+http://xtv.ooo:8080/Ans7382/6655444/349228
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png"  group-title="Colombia", RCN 
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png "  group-title="Colombia", RCN opc2
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png "  group-title="Colombia", RCN HD
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22433.ts
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png "  group-title="Colombia", RCN opc3
-http://EXM3U.of1124.xyz/live/vi120344/tuD6QfehwF/855482.ts
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn%2B.png" group-title="Colombia", rcn mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcnxtra.png"  group-title="Colombia", Rcn xtra
@@ -154,13 +41,13 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/374766
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/Telemedellín.png"  group-title="Colombia", Telemedellin
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/telepacifico.png"  group-title="Colombia", Tele-pacifico   
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+http://galaxypro.online:8080/Jaime12P/JaimeU14/374764
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/mastv.png"  group-title="Colombia", mas tv
 http://galaxypro.online:8080/Jaime12P/JaimeU14/375747
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/tvagro.png"  group-title="Colombia", tv agro
 http://novared.pro:8080/motors/checkmotors131021/69288
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/tro.png " group-title="Colombia", canal tro
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVD1iwpKE0RYdEauSelPTeS
+http://200792908624887516.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/887516.ts
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/telecafe.png " group-title="Colombia", tele café
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXdhy95z5O8w81USiWj7qEs
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/cosmovisión.png"  group-title="Colombia", cosmovision 
@@ -217,6 +104,64 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 https://ssh101-fl.bozztv.com:443/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/terrortv.png" group-title="CINE VIP",  terror tv
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/%2Bcine.png " group-title="CINE VIP",  +cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/tvprime.png "  group-title="CINE VIP", tv prime
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cineparatodos.png" group-title="CINE VIP", cine para todos 
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinemaclasico.png" group-title="CINE VIP", cinema clásico 
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/xtrema.png" group-title="CINE VIP", extrema tv acción 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/freetv.png" group-title="CINE VIP", freetv acción 
+https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rutime.png " group-title="CINE VIP", run:time accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YNN&did=ad622aecd77ec837915c84aad94feb29&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinefilos.png "  group-title="CINE VIP", cinefilos 
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrotvonline.png "  group-title="CINE VIP", retro tv online 
+https://ssh101-fl.bozztv.com:443/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retropalmarés.png "  group-title="CINE VIP", retro palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retrox.png "  group-title="CINE VIP", retrox tv
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/TV-TV.png"  group-title="CINE VIP", tv & tv
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/diditv.png"  group-title="CINE VIP", diti tv
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retro-mágico.png"  group-title="CINE VIP", retro magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retroplay.png "  group-title="CINE VIP", retro play tv
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rex.png "  group-title="CINE VIP", canal rex
+http://190.102.242.130:25461/live/multicontenido/1234/127.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="CINE VIP", wow tv
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelahorror.png "  group-title="CINE VIP", canela horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=45160f1f52dd531af6283d66fd897221&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252flinear%252fcanela-horror&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1715689870&id=56737&ip=190.60.36.90&override_expiration=1500&deliveryProfileId=23762&sign=BBE0%2BVo%2FasJabfOBgX5Wi9TSIr8Oqr3wJk%2FaDSCmvp4%3D
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/bumtv.png "  group-title="CINE VIP", Bum televisión 
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/grjngo.png" group-title="CINE VIP", grjngo del oeste
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seopeliculas.png "  group-title="CINE VIP", seo tv películas 
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/seoyungas.png "  group-title="CINE VIP", seo tv yungas
+https://seo.tv.bo/tv/SEOTV7.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/orbottv.png" group-title="CINE VIP", orbit tv 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cocotv.png" group-title="CINE VIP", COCO tv
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cosmos.png" group-title="CINE VIP",  cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/cinerama.png" group-title="CINE VIP",  cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/telemax.png" group-title="CINE VIP",  telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbo.png" group-title="Cine Premium", HBO
 https://castlempire.site:443/jorgen3/zagw733/172764.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbo2.png" group-title="Cine Premium",  HBO 2
@@ -264,7 +209,7 @@ http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinepremiun.png" group-title="Cine Premium", cine premiun 
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinear.png" group-title="Cine Premium", cinear
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+http://200792908624776634.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776634.ts
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/animalplanet.png" group-title="Cultura",  Animal Planet
@@ -272,7 +217,7 @@ https://castlempire.site:443/jorgen3/zagw733/190664.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverychannel.png" group-title="Cultura",  Discovery Channel
 https://castlempire.site:443/jorgen3/zagw733/190695.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryfamily.png" group-title="Cultura",  Discovery Familia
-http://budtvlight.com:25461/JW2WBkS637f6Vyqpn/av76gFJ1AeEDzXoV2/159157
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/202
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryh-h.png" group-title="Cultura",  Discovery. H&H
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22262.ts
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryid.png" group-title="Cultura",  Discovery Investigation
@@ -328,13 +273,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Nickelodeon.png " group-title="Infantiles",  Nickelodeon clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/dreamworks.png " group-title="Infantiles",  Dreamworks 
-http://sdmx.vip:8080/belpley/sYqKZQrTZa/2163078
+http://masterprotv1.com:8080/56963863944wspztv/100223ztv/216736
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pequeradio.png" group-title="Infantiles",  pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/Canalipe.png" group-title="Infantiles",  canal ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/caracola.png " group-title="Infantiles",  caracola tv
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/ciudadmagica.png " group-title="Infantiles",  ciudad magica
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pitufotv.png " group-title="Infantiles",  pitufo tv
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Hu6H9-GTamD9x6Wf94xJ
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/zas.png" group-title="Infantiles",  zaz tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/cinekids.png" group-title="Infantiles",  cine kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/toonzkids.png" group-title="Infantiles",  toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/dreico.png" group-title="Infantiles",  dreiko tv
@@ -345,9 +298,7 @@ https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Infantiles/monitv.png  " group-title="Infantiles",  moni tv
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/ciudadmagica.png " group-title="Infantiles",  ciudad magica
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="Infantiles",  lms
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/mls.png" group-title="Infantiles",  lms 
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Infantiles/latinokids.png" group-title="Infantiles",  latino kids
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
@@ -365,14 +316,9 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/fanpop.png" group-title="Infantiles",  fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/caracola.png " group-title="Infantiles",  caracola tv
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/cinekids.png" group-title="Infantiles",  cine kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/adultswin.png" group-title="Infantiles",  adult swim
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159847
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Infantiles/pitufotv.png " group-title="Infantiles",  pitufo tv
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-639ba57d3f4612cc150a5723.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Hu6H9-GTamD9x6Wf94xJ
+http://158.51.207.198:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183762.m3u8?token=QxAOWBJaGlkRBAYAAQZRA1tSVAIGUgNUAAFVWgEFA1RdAFMJWApbBlJAHRAXEBMEWAhvWABGDVUIBwQOURkSRUtXFGYIVhpZEVMFBlFQQ00bEVlcAUYNVBwWQ1EHFwoSCQpVD1gQFEFWGkVXFgoADWYBVUcNB1JGClpGVA8ZEl9WbQJcDFNWBxFYEwJGSEMIShUSCwoRWwgcFlFRF0dRRF0QXBtSBwhUEU4TUQsRDxVLHBILRid4RhwWVkAXUF5DUV0IG1sQVVBGWhMeRg0SPksAQ0UWAVYJVUYRAkEFEhwaXwdBPlFXDV0HUkYNCw8SG18SBUZIFQlfWlpMDEdvQFFWRANDAw1UBFsTTw==
+
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/vallenatosinter.png" group-title="Musica", vallenatos internacional 
@@ -407,45 +353,115 @@ https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w939558316.m3u8
 
 
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/nba.png " group-title="Deporte VIP", nba tv
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/nba.png " group-title="Deporte VIP", NBA TV
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/mlb.png " group-title="Deporte VIP", mlb network 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/mlb.png " group-title="Deporte VIP", MLB NETWORK 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/combateglobal.png " group-title="Deporte VIP", combate global 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/combateglobal.png " group-title="Deporte VIP", COMBATE GLOBAL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/tennis.png " group-title="Deporte VIP", tennis channels
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/tennis.png " group-title="Deporte VIP", TENNIS CHANNELS
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/golf.png " group-title="Deporte VIP", golf channels
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/golf.png " group-title="Deporte VIP", GOLF CHANNELS
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/WWE.png " group-title="Deporte VIP", wwe network
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/WWE.png " group-title="Deporte VIP", WWE NETWORK
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/ufc.png" group-title="Deporte VIP", ufc network 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/ufc.png" group-title="Deporte VIP", UFC NETWORK 
 https://castlempire.site:443/jorgen3/zagw733/255599.ts
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/footbolnet.png" group-title="Deporte VIP", football network 
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/footbolnet.png" group-title="Deporte VIP", FOOTBALL NETWORK 
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/redbull.png " group-title="Deporte VIP", redbull 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/redbull.png " group-title="Deporte VIP", REDBULL 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="Deportes Colombia", win sport
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 1
+https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 2
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png" group-title="VIX  EVENTOS", EVENTO 3
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 4
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 5
+https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 6
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 7
+https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 8
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 9
+https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 10
+https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 11
+https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 12
+https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 13
+https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 14
+https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 15
+https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 16
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 17
+https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 18
+https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 19
+https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 20
+https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 21
+https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 22
+https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 23
+https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/vix.png " group-title="VIX  EVENTOS", EVENTO 24
+https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn1.png" group-title="deportes movistar", DAZN MOVISTAR 1
+http://548510881794228384.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228384.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn2.png" group-title="deportes movistar", DAZN MOVISTAR 2
+http://548510881794228388.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228388.m3u8
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn3.png" group-title="deportes movistar", DAZN MOVISTAR 3
+http://200792908624228393.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228393.ts
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn4.png" group-title="deportes movistar", DAZN MOVISTAR 4
+http://200792908624228397.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228397.ts
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/daznf1.png" group-title="deportes movistar", DAZN MOVISTAR F1 
+http://548510881794165257.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/165257.m3u8
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/liga_tv.png " group-title="deportes movistar", M+ LA LIGA TV
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143551.ts
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/hipermotion.png " group-title="deportes movistar", LA LIGA TV HIPERMOTION
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/153604.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/Liga_campeones.png  " group-title="deportes movistar", M+ LIGA DE CAMPEONES 
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143554.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/movistar_deportes.png  " group-title="deportes movistar", M+ DEPORTES 
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143567.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/Vamos.png  " group-title="deportes movistar", M+ VAMOS
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143424.ts
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/Vamos_ellas.png " group-title="deportes movistar", M+ ELLAS VAMOS
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/178417.ts
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/eurosport1.png " group-title="deportes movistar", EUROSPORTS 1
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143737.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/eurosports2.png  " group-title="deportes movistar", EUROESPORTS 2
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143577.ts
+
+
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="Deportes Colombia", WIN SPORT
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/23219.ts
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="Deportes Colombia", WIN SPORT HD
 http://fastream.xyz:8080/573214678640x/vZSXWqjQ5NWD/363
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win%2B.png" group-title="Deportes Colombia", WIN SPORT+ 
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/492.ts
+#EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win%2B.png" group-title="Deportes Colombia", WIN SPORT+ HD
+http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/78697.ts
 
 
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn1.png" group-title="Dazn Eventos", DAZN MOVISTAR 1
-http://548510881794228384.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228384.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn2.png" group-title="Dazn Eventos", DAZN MOVISTAR 2
-http://548510881794228388.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228388.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn3.png" group-title="Dazn Eventos", DAZN MOVISTAR 3
-http://548510881794228395.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228395.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn4.png" group-title="Dazn Eventos", DAZN MOVISTAR 4
-http://548510881794228397.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228397.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/daznf1.png" group-title="Dazn Eventos", DAZN MOVISTAR F1 
-http://548510881794165257.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/165257.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes Mexico",  FOX SPORTS  1 (México)
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes Mexico",  FOX SPORTS 1 (México)
 http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854670.ts
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox2.png" group-title="Deportes Mexico",  FOX SPORTS 2 (México)
 http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854673.ts
@@ -457,40 +473,37 @@ https://castlempire.site:443/jorgen3/zagw733/190102.m3u8
 https://castlempire.site:443/jorgen3/zagw733/181237.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn3.png" group-title="Deportes Mexico",  ESPN SPORT 3 (México)
 https://castlempire.site:443/jorgen3/zagw733/181242.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tvc.png"  group-title="Deportes Mexico",TVC deportes
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tvc.png"  group-title="Deportes Mexico",TVC DEPORTES
 http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854720.ts
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tudn.png"  group-title="Deportes Mexico",  TUDN
 http://xtream.lat:8880/Alex2023/Alex2023/291
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/tudn.png "  group-title="Deportes Mexico",  TUDN usa
 http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/707666.ts
- #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/itv.png" group-title="Deportes Mexico", itv deportes
+ #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/itv.png" group-title="Deportes Mexico", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
  
 
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv.png" group-title="Deportes argentina",  directv sports (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv.png" group-title="Deportes argentina",  DIRECTV SPORTS (argentina)
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/92895.ts
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv2.png " group-title="Deportes argentina",  directv sport 2 (argentina)
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv2.png " group-title="Deportes argentina",  DIRECTV SPORT 2 (argentina)
 https://castlempire.site:443/jorgen3/zagw733/181233.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv%2B.png" group-title="Deportes argentina",  directv sports + (argentina)
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22689.ts
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn.png" group-title="Deportes argentina",  espn (argentina)
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn2.png " group-title="Deportes argentina",  espn 2 (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv%2B.png" group-title="Deportes argentina",  DIRECTV SPORTS + (argentina)
+http://200792908624781931.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/781931.ts
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn.png" group-title="Deportes argentina",  ESPN (argentina)
+http://200792908624776670.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776670.ts
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn2.png " group-title="Deportes argentina",  ESPN 2 (argentina)
 http://170.82.37.21:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn3.png " group-title="Deportes argentina",  espn 3 (argentina)
+#EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn3.png " group-title="Deportes argentina",  ESPN 3 (argentina)
 http://170.82.37.21:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espnpremiun.png" group-title="Deportes argentina",  espn premium (argentina)
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espnpremiun.png" group-title="Deportes argentina",  ESPN PREMIUM (argentina)
 http://170.82.37.21:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes argentina",  fox sport (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes argentina",  FOX SPORT (argentina)
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/6760.ts
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox2.png" group-title="Deportes argentina",  fox sport 2 (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox2.png" group-title="Deportes argentina",  FOX SPORT 2 (argentina)
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/34588.ts
-#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox3.png" group-title="Deportes argentina", fox 3 (argentina)
+#EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox3.png" group-title="Deportes argentina", FOX SPORTS 3 (argentina)
 http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/858645.ts
-#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tyc.png"  group-title="Deportes argentina", tyc SPORTS (argentina)
+#EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tyc.png"  group-title="Deportes argentina", TyC SPORTS (argentina)
 http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/93077.ts
-
-
-
 
 
