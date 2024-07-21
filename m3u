@@ -1,7 +1,5 @@
 
 
-
-
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png "  group-title="Colombia", CARACOL  
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/caracol.png " group-title="Colombia", CARACOL HD
@@ -11,7 +9,7 @@ http://xtv.ooo:8080/Ans7382/6655444/349228
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png"  group-title="Colombia", RCN 
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn.png "  group-title="Colombia", RCN HD
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22433.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22433.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcn%2B.png" group-title="Colombia", rcn mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/rcnxtra.png"  group-title="Colombia", Rcn xtra
@@ -47,7 +45,7 @@ http://galaxypro.online:8080/Jaime12P/JaimeU14/375747
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/tvagro.png"  group-title="Colombia", tv agro
 http://novared.pro:8080/motors/checkmotors131021/69288
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/tro.png " group-title="Colombia", canal tro
-http://200792908624887516.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/887516.ts
+http://200792908624887516.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/887516.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Colombia/telecafe.png " group-title="Colombia", tele café
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXdhy95z5O8w81USiWj7qEs
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Colombia/cosmovisión.png"  group-title="Colombia", cosmovision 
@@ -137,7 +135,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/retroplay.png "  group-title="CINE VIP", retro play tv
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/rex.png "  group-title="CINE VIP", canal rex
-http://190.102.242.130:25461/live/multicontenido/1234/127.ts
+http://190.102.242.130:25461/live/multicontenido/1234/127.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/womtv.png "  group-title="CINE VIP", wow tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cinexclusivo/canelahorror.png "  group-title="CINE VIP", canela horror
@@ -171,13 +169,13 @@ http://tvbross.com:8090/comandoalmache/almache2022../424
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbofamily.png" group-title="Cine Premium", HBO Family
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEW-j6w0NhnDj0PEDC5oGc03
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hboextreme.png" group-title="Cine Premium", HBO Xtreme
-https://castlempire.site:443/jorgen3/zagw733/169831.ts
+https://castlempire.site:443/jorgen3/zagw733/169831.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbomundi.png" group-title="Cine Premium", HBO Mundi
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/67467.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/67467.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbopop.png" group-title="Cine Premium", HBO POP
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/184705
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cine/hbosignature.png" group-title="Cine Premium",  HBO signature
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22210.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22210.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/fx.png" group-title="Cine Premium", fx
 http://xtream.lat:8880/Alex2023/Alex2023/80
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/AyE.png" group-title="Cine Premium", A&E
@@ -189,15 +187,15 @@ http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVs7XqjBc
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/Cinecanal.png " group-title="Cine Premium", cinecanal
 http://xtream.lat:8880/Alex2023/Alex2023/36
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/TNTseries.png " group-title="Cine Premium", tnt series
-http://EXM3U.of1124.xyz/live/vi120344/tuD6QfehwF/855509.ts
+http://EXM3U.of1124.xyz/live/vi120344/tuD6QfehwF/855509.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/TNT.png " group-title="Cine Premium", tnt
 http://xtream.lat:8880/Alex2023/Alex2023/243
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/AMC.png " group-title="Cine Premium", amc
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/cinelatino.png " group-title="Cine Premium", cine latino 
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854639.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854639.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/SyFy.png " group-title="Cine Premium", syfy
-http://EXM3U.of1124.xyz/live/vi120344/tuD6QfehwF/321424.ts
+http://EXM3U.of1124.xyz/live/vi120344/tuD6QfehwF/321424.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/Sonycine.png" group-title="Cine Premium", sony cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Cine/sonymovie.png " group-title="Cine Premium", sony movies
@@ -209,7 +207,7 @@ http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinepremiun.png" group-title="Cine Premium", cine premiun 
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Cine/cinear.png" group-title="Cine Premium", cinear
-http://200792908624776634.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776634.ts
+http://200792908624776634.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776634.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/animalplanet.png" group-title="Cultura",  Animal Planet
@@ -219,13 +217,13 @@ https://castlempire.site:443/jorgen3/zagw733/190695.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryfamily.png" group-title="Cultura",  Discovery Familia
 http://masterprotv1.com:8080/56963863944wspztv/100223ztv/202
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryh-h.png" group-title="Cultura",  Discovery. H&H
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22262.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/22262.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryid.png" group-title="Cultura",  Discovery Investigation
 http://zeuspro.xyz:8080/adrianogambini1/tNQtNdDN6U/26898
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverysci.png" group-title="Cultura",  Discovery SCI
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/227399
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoverytheater.png" group-title="Cultura",  Discovery Theater
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/6708.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/6708.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/Discoveryturbo.png" group-title="Cultura",  Discovery Turbo
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/341983
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Cultura/discoveryworld.png" group-title="Cultura",  Discovery World
@@ -253,7 +251,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccdd0939a5900088a19
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Novelas/novelisima.png" group-title="Telenovelas", novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Novelas/kanald.png" group-title="Telenovelas", kanal de drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=913ee95406dac779b201c718d18d2d2e&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&device_width=1280&device_height=720&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252fvive-kanal-d-drama&site_name=canelatv&device_model=&yob=0&gender=not_specified&us_privacy=1ynn&gdpr=0&gdpr_consent=1&device_language=es&is_lat=0&coppa=0&timestamp=1718635831&id=33385&ip=181.78.20.113&override_expiration=1500&deliveryProfileId=23762&sign=TYeUuXPM%2Fq9SEQLGrLKQoZqsHteoOn3Wqq3YT%2BMWyFk%3D
+https://cdn-uw2-prod.m3u8v2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=913ee95406dac779b201c718d18d2d2e&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&device_width=1280&device_height=720&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252fvive-kanal-d-drama&site_name=canelatv&device_model=&yob=0&gender=not_specified&us_privacy=1ynn&gdpr=0&gdpr_consent=1&device_language=es&is_lat=0&coppa=0&timestamp=1718635831&id=33385&ip=181.78.20.113&override_expiration=1500&deliveryProfileId=23762&sign=TYeUuXPM%2Fq9SEQLGrLKQoZqsHteoOn3Wqq3YT%2BMWyFk%3D
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Novelas/novelasturcas.png" group-title="Telenovelas", novelas turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -320,7 +318,6 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 http://158.51.207.198:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183762.m3u8?token=QxAOWBJaGlkRBAYAAQZRA1tSVAIGUgNUAAFVWgEFA1RdAFMJWApbBlJAHRAXEBMEWAhvWABGDVUIBwQOURkSRUtXFGYIVhpZEVMFBlFQQ00bEVlcAUYNVBwWQ1EHFwoSCQpVD1gQFEFWGkVXFgoADWYBVUcNB1JGClpGVA8ZEl9WbQJcDFNWBxFYEwJGSEMIShUSCwoRWwgcFlFRF0dRRF0QXBtSBwhUEU4TUQsRDxVLHBILRid4RhwWVkAXUF5DUV0IG1sQVVBGWhMeRg0SPksAQ0UWAVYJVUYRAkEFEhwaXwdBPlFXDV0HUkYNCw8SG18SBUZIFQlfWlpMDEdvQFFWRANDAw1UBFsTTw==
 
 
-
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Musica/vallenatosinter.png" group-title="Musica", vallenatos internacional 
 https://server80.servistreaming.com:3884/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Musica/sentimientovalle.png"  group-title="Musica", sentimiento vallenato 
@@ -366,7 +363,7 @@ http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/WWE.png " group-title="Deporte VIP", WWE NETWORK
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/ufc.png" group-title="Deporte VIP", UFC NETWORK 
-https://castlempire.site:443/jorgen3/zagw733/255599.ts
+https://castlempire.site:443/jorgen3/zagw733/255599.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/footbolnet.png" group-title="Deporte VIP", FOOTBALL NETWORK 
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/redbull.png " group-title="Deporte VIP", REDBULL 
@@ -428,43 +425,43 @@ http://548510881794228384.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228384.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn2.png" group-title="deportes movistar", DAZN MOVISTAR 2
 http://548510881794228388.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/228388.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn3.png" group-title="deportes movistar", DAZN MOVISTAR 3
-http://200792908624228393.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228393.ts
+http://200792908624228393.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228393.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/dazn4.png" group-title="deportes movistar", DAZN MOVISTAR 4
-http://200792908624228397.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228397.ts
+http://200792908624228397.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/228397.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/daznf1.png" group-title="deportes movistar", DAZN MOVISTAR F1 
 http://548510881794165257.napgoto413.xyz:80/play/vi37296/6DJkXrwuEtk/165257.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/liga_tv.png " group-title="deportes movistar", M+ LA LIGA TV
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143551.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143551.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/hipermotion.png " group-title="deportes movistar", LA LIGA TV HIPERMOTION
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/153604.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/153604.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/Liga_campeones.png  " group-title="deportes movistar", M+ LIGA DE CAMPEONES 
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143554.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143554.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/movistar_deportes.png  " group-title="deportes movistar", M+ DEPORTES 
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143567.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143567.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/Vamos.png  " group-title="deportes movistar", M+ VAMOS
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143424.ts
+http://acapaiespada.com:2083/live/iptv307/QJtvkQpccG/143424.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/Vamos_ellas.png " group-title="deportes movistar", M+ ELLAS VAMOS
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/178417.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/178417.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/eurosport1.png " group-title="deportes movistar", EUROSPORTS 1
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143737.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143737.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/eurosports2.png  " group-title="deportes movistar", EUROESPORTS 2
-http://acapaiespada.com:80/iptv307/QJtvkQpccG/143577.ts
+http://acapaiespada.com:80/iptv307/QJtvkQpccG/143577.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="Deportes Colombia", WIN SPORT
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/23219.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/23219.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win.png" group-title="Deportes Colombia", WIN SPORT HD
 http://fastream.xyz:8080/573214678640x/vZSXWqjQ5NWD/363
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win%2B.png" group-title="Deportes Colombia", WIN SPORT+ 
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/492.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/492.m3u8
 #EXTINF:-1  tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/win%2B.png" group-title="Deportes Colombia", WIN SPORT+ HD
-http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/78697.ts
+http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/78697.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes Mexico",  FOX SPORTS 1 (México)
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854670.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854670.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox2.png" group-title="Deportes Mexico",  FOX SPORTS 2 (México)
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854673.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854673.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox3.png" group-title="Deportes Mexico",  FOX SPORTS 3 (México)
 https://castlempire.site:443/jorgen3/zagw733/181276.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn.png" group-title="Deportes Mexico",  ESPN SPORT 1 (México)
@@ -474,23 +471,23 @@ https://castlempire.site:443/jorgen3/zagw733/181237.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn3.png" group-title="Deportes Mexico",  ESPN SPORT 3 (México)
 https://castlempire.site:443/jorgen3/zagw733/181242.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tvc.png"  group-title="Deportes Mexico",TVC DEPORTES
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854720.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/854720.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tudn.png"  group-title="Deportes Mexico",  TUDN
 http://xtream.lat:8880/Alex2023/Alex2023/291
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/tudn.png "  group-title="Deportes Mexico",  TUDN usa
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/707666.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/707666.m3u8
  #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/itv.png" group-title="Deportes Mexico", ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
  
 
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv.png" group-title="Deportes argentina",  DIRECTV SPORTS (argentina)
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/92895.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/92895.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv2.png " group-title="Deportes argentina",  DIRECTV SPORT 2 (argentina)
 https://castlempire.site:443/jorgen3/zagw733/181233.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/directv%2B.png" group-title="Deportes argentina",  DIRECTV SPORTS + (argentina)
-http://200792908624781931.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/781931.ts
+http://200792908624781931.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/781931.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn.png" group-title="Deportes argentina",  ESPN (argentina)
-http://200792908624776670.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776670.ts
+http://200792908624776670.ofd0718.xyz:80/play/te316986/D9Y7sKYFQ7n8/776670.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn2.png " group-title="Deportes argentina",  ESPN 2 (argentina)
 http://170.82.37.21:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo=" https://vlink.lol/vfm/play/etelio/Logos/Deportes/espn3.png " group-title="Deportes argentina",  ESPN 3 (argentina)
@@ -498,12 +495,12 @@ http://170.82.37.21:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/espnpremiun.png" group-title="Deportes argentina",  ESPN PREMIUM (argentina)
 http://170.82.37.21:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox.png" group-title="Deportes argentina",  FOX SPORT (argentina)
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/6760.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/6760.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox2.png" group-title="Deportes argentina",  FOX SPORT 2 (argentina)
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/34588.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/34588.m3u8
 #EXTINF:-1 tvg-logo="  https://vlink.lol/vfm/play/etelio/Logos/Deportes/fox3.png" group-title="Deportes argentina", FOX SPORTS 3 (argentina)
-http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/858645.ts
+http://toh-users.xyz:8080/live/njonessimon@gmail.com/mnnPwjcRFZVL/858645.m3u8
 #EXTINF:-1 tvg-logo="https://vlink.lol/vfm/play/etelio/Logos/Deportes/tyc.png"  group-title="Deportes argentina", TyC SPORTS (argentina)
-http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/93077.ts
+http://ictv19.xyz:8000/live/marbellainfante/6aW4hMZnw0/93077.m3u8
 
 
